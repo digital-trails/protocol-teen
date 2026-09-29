@@ -59,7 +59,7 @@ def _create_survey_page(row):
     show_buttons = row[13]
     variable_name = row[16]
     conditions = row[17]
-    input_name = row[18]
+    input_name = None #row[18]
 
     return create_survey_page(conditions=conditions, text=text,
                                 show_buttons=show_buttons, media=media, image_framed=image_framed,
@@ -89,7 +89,7 @@ def create_lessons_learned():
 def create_long_sessions():
     sessions = defaultdict(list)
 
-    with open(f"{dir_csv}/Final Long Scenarios.csv", "r",encoding="utf-8") as read_file:
+    with open(f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Long scenarios.csv", "r",encoding="utf-8") as read_file:
         for row in islice(csv.reader(read_file),2,None):
 
             if not row: continue # Skip empty lines
@@ -124,7 +124,7 @@ def create_short_sessions():
 
     lessons_learned_dict = create_lessons_learned()
 
-    with open(f"{dir_csv}/short_scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
+    with open(f"{dir_csv}/MT Teen Content_ Short Scenarios.xlsx - General Scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
 
             domain   = row[3].strip()
@@ -185,11 +185,7 @@ def create_surveys():
     surveys = { "BeforeDomain_All": defaultdict(list), "AfterDomain_All": defaultdict(list), "Dose_1": defaultdict(list), "Control_Dose_1": defaultdict(list) }
 
     # Open the file with all the content
-    with open(f"{dir_csv}/survey_questions.csv", "r", encoding="utf-8") as read_obj:
-
-        demographics_page = {}
-        demographics_page_elements = []
-        previous_sub_id = ""
+    with open(f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Intro.csv", "r", encoding="utf-8") as read_obj:
 
         for row in islice(csv.reader(read_obj),1,None):
             lookup_id = f"{row[3]}_{row[2]}"
@@ -197,25 +193,10 @@ def create_surveys():
 
             if lookup_id not in surveys: continue
 
-            elif subgroup_id=="Demographics" and demographics_page_elements==[]:
-                demographics_page = _create_survey_page(row)
-                for element in demographics_page['elements']:
-                    demographics_page_elements.append(element)
-
-            elif subgroup_id=="Demographics" and row[3]=="Dose": # Ignore the control dose
-                for element in _create_survey_page(row)['elements']:
-                    demographics_page_elements.append(element)
-
-            elif previous_sub_id=="Demographics" and row[3]=="Dose": # This has to go here or else the Demographics survey will be placed at the end
-                demographics_page['elements'] = demographics_page_elements
-                surveys["Dose_1"]["Demographics"].append(demographics_page)
-
             elif row[0] == "Practice CBM-I":
                 surveys[lookup_id][subgroup_id].extend(_create_practice_pages())
             elif row[2]:
                 surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
-
-            previous_sub_id = subgroup_id
 
     return surveys
 
@@ -232,8 +213,8 @@ def create_write_your_own_session():
     return pages
 
 def create_resource_dose_creator():
-    ER_lookup = get_ER(file_path=f"{dir_csv}/ER Strategies.csv")
-    tips      = get_tips(file_path=f"{dir_csv}/tips.csv")
+    ER_lookup = get_ER(file_path=f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Emotion Regulation Suggestions.csv")
+    tips      = get_tips(file_path=f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Tips to apply lessons in daily life.csv")
     resources = get_resources(file_path=f"{dir_csv}/UMA Resources.csv")
 
     return lambda domain: [create_resource_page(resources, tips, ER_lookup, domain)]
@@ -258,7 +239,7 @@ def create_discrimination_session(pop):
 
 def create_reminders():
     reminders = defaultdict(list)
-    with open(f"{dir_csv}/tips.csv", "r", encoding="utf-8") as read_obj:
+    with open(f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Tips to apply lessons in daily life.csv", "r", encoding="utf-8") as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
             reminders[row[0].strip()].append([lower(row[1]).strip(), lower(row[2]).strip(), row[5]])
 

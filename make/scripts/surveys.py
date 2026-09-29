@@ -22,8 +22,8 @@ def _create_survey_page(row):
     text = clean_up_unicode(row[4])
 
     title = row[1].strip()
-    input_1 = row[5]
-    input_2 = row[6]
+    input_1 = row[6]
+    input_2 = None
     minimum = row[7]
     maximum = row[8]
     media = media_url(row[9])
@@ -33,7 +33,7 @@ def _create_survey_page(row):
     show_buttons = row[13]
     variable_name = row[16]
     conditions = row[17]
-    input_name = row[18]
+    input_name = None
 
     return create_survey_page(conditions=conditions, text=text,
                                 show_buttons=show_buttons, media=media, image_framed=image_framed,
@@ -43,7 +43,7 @@ def _create_survey_page(row):
 
 # Read the questions
 survey_pages = defaultdict(lambda: defaultdict(list))
-with open(f"{dir_csv}/survey_questions.csv", "r", encoding="utf-8") as read_obj:
+with open(f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Intro.csv", "r", encoding="utf-8") as read_obj:
 
     for row in islice(csv.reader(read_obj),1,None):
 
