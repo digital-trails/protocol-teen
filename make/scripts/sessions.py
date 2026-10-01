@@ -206,7 +206,7 @@ def create_reminders():
     reminders = defaultdict(list)
     with open(f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Tips to apply lessons in daily life.csv", "r", encoding="utf-8") as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
-            reminders[row[0].strip()].append([lower(row[1]).strip(), lower(row[2]).strip(), row[5]])
+            reminders[row[0].strip()].append([lower(row[1]).strip(), lower(row[2]).strip()])
 
     return reminders
 
@@ -239,7 +239,10 @@ for pop,s,l in populations:
     for domain in domains:
         for short_session in short_sessions[domain]:
             if sessions[domain] and len(sessions[domain]) % 5 == 0:
-                sessions[domain].append(next(long_sessions[domain]) + resources(domain))
+                try:
+                    sessions[domain].append(next(long_sessions[domain]) + resources(domain))
+                except KeyError:
+                    continue
             else:
                 short_session = try_add_reminders(len(sessions[domain]), short_session, reminders)
                 sessions[domain].append(short_session + resources(domain))

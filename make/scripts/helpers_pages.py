@@ -254,7 +254,7 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
     :return: a page group for a resource, ER strategy, or tip
     """
 
-    resource_type = choice(["Resource", "Tip", "ER Strategy"], "resources")
+    resource_type = choice(["Tip", "ER Strategy"], "resources")
 
     if resource_type == "Resource":
         label,text = resources_lookup[domain].pop(0)  # resource name and text
@@ -272,11 +272,14 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
         input = {"type": "Entry", "name": f"{label}_entry"}
 
     if resource_type == "ER Strategy":
-        [label,text] = ER_lookup[domain].pop(0)  # popping the first list of lists
-        ER_lookup[domain].append([label,text])  # adding it back to the end of the list of lists
+        try:
+            [label,text] = ER_lookup[domain].pop(0)  # popping the first list of lists
+            ER_lookup[domain].append([label,text])  # adding it back to the end of the list of lists
 
-        title = f"Maneja tus sentimientos: {domain}" # domain name  # changed
-        input = None
+            title = f"Maneja tus sentimientos: {domain}" # domain name  # changed
+            input = None
+        except KeyError:
+            return
 
     text = { "type": "Text", "text": text }
     elements = [text,input] if input else [text]
