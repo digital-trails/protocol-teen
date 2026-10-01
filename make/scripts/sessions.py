@@ -5,7 +5,7 @@ from collections import defaultdict
 from itertools import islice, cycle, chain
 from pathlib import Path
 
-from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page
+from helpers_pages import create_scenario_pages, create_survey_page,create_resource_page
 from helpers_pages import create_long_pages, create_write_your_own_page, create_video_page
 from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url, lower, get_page_index, get_reminder_element
 
@@ -220,24 +220,6 @@ def create_resource_dose_creator():
 
     return lambda domain: [create_resource_page(resources, tips, ER_lookup, domain)]
 
-def create_discrimination_session(pop):
-    pages = []
-    with open(f"{dir_csv}/Discrimination.csv", "r", encoding="utf-8") as f:
-        for row in islice(csv.reader(f),1,None):
-            title, text, input_1, var_name, input_name = row[0], row[1], row[2], row[13], row[15]
-            items, conditions = row[7], row[14]
-            text = clean_up_unicode(row[1]) #changed
-
-            pages.append(create_discrimination_page(conditions=conditions,
-                                                    text=text,
-                                                    items=items,
-                                                    input_1=input_1,
-                                                    input_name=input_name,
-                                                    variable_name=var_name,
-                                                    title=title))
-
-    return pages
-
 def create_reminders():
     reminders = defaultdict(list)
     with open(f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Tips to apply lessons in daily life.csv", "r", encoding="utf-8") as read_obj:
@@ -267,7 +249,6 @@ for pop,s,l in populations:
     long_sessions   = create_long_sessions()              # dict of long session cycle by domain
     wyo_session     = create_write_your_own_session()      # one session used over and over again
     resources       = create_resource_dose_creator()       # lambda that takes a domain and returns a dose
-    discrim_session = create_discrimination_session(pop)   # one session used over and over again
     reminders       = create_reminders()
 
     domains  = short_sessions.keys()
@@ -297,7 +278,6 @@ for pop,s,l in populations:
     folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Español"}
     folders['treatment/sessions/__before__'] = flat(surveys["BeforeDomain_All"])
     folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])
-    folders['treatment/sessions/Discrimination'] = discrim_session
     for domain, doses in sessions.items():
         folders[f"treatment/sessions/{dir_safe(domain)}/__flow__.json"] ={"mode":"sequential", "take":1, "repeat":True}
         for i, dose in enumerate(doses,1):
