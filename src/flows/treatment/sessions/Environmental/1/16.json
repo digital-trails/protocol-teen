@@ -1,0 +1,16 @@
+{
+    "header_text": "Global Polluction 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Global Polluction 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/text-zVuDeGdjxgU"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

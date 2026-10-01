@@ -1,0 +1,16 @@
+{
+    "header_text": "Calm Teammates",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Calm Teammates"
+        },
+        {
+            "type": "Media",
+            "url": "./images/sportsteam.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Turkey Trot",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Turkey Trot"
+        },
+        {
+            "type": "Media",
+            "url": "./images/runningarace.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

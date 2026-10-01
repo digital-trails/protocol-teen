@@ -1,0 +1,17 @@
+{
+    "header_text": "Watched by Coach",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During practice, the coach watches you closely during several drills without saying anything. You start to wonder if they’re noticing problems you can’t see yet. When you think about it, watching sometimes means you are doing... "
+        },
+        {
+            "type": "Entry",
+            "name": "Watched by Coach_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

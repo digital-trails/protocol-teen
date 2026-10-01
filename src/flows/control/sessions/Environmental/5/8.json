@@ -1,0 +1,16 @@
+{
+    "header_text": "Summer Sleeplessness",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Summer Sleeplessness"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-close-up-of-a-door-with-a-curtain-Rs_oPan5jhc"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

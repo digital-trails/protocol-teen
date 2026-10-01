@@ -1,0 +1,16 @@
+{
+    "header_text": "Presentation Applause",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Presentation Applause"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-with-blue-hair-standing-in-front-of-an-audience-GkWP64truqg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

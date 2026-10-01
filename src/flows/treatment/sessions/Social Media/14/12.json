@@ -1,0 +1,16 @@
+{
+    "header_text": "No Smartphone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "No Smartphone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-sitting-on-sofa-chair-reading-book-SCB6nhgNHZU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Missed Call from Crush 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missed Call from Crush 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/top-view-of-young-female-hands-using-smartphone-while-sitting-in-workplace-CvhjOTrsZHg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Solo Prom 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Solo Prom 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/five-young-people-gathered-around-a-blue-table-with-drinks-Si_z7H-5RbE"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

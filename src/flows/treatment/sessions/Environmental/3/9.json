@@ -1,0 +1,17 @@
+{
+    "header_text": "Rising Sea Levels",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a dinner with your extended family near the beach. As you eat, someone mentions rising sea levels, and your stomach twists thinking the coastline you love will vanish. You imagine visiting someday and finding it ruined and feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Rising Sea Levels_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 2
+}

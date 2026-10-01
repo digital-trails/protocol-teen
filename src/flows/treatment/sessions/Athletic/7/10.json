@@ -1,0 +1,16 @@
+{
+    "header_text": "Homework vs. Practice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Homework vs. Practice"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-writing-on-a-notebook-with-a-pen-O04ybN0h1C8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

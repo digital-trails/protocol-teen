@@ -1,0 +1,16 @@
+{
+    "header_text": "AI Anxiety 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "AI Anxiety 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-pens-and-sticky-notes-MBr7VQEOc-Y"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

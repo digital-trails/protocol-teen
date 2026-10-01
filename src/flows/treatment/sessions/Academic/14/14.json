@@ -1,0 +1,16 @@
+{
+    "header_text": "Late Essay 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Late Essay 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/desk-with-papers-calculator-and-pens-bZqitd_ae0A"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Borrowed Calculator 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Borrowed Calculator 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-calculator-and-a-pen-sitting-on-top-of-a-piece-of-paper-Vs6ip7fsld8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

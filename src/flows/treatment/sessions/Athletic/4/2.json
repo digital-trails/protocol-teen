@@ -1,0 +1,25 @@
+{
+    "header_text": "Tough Loss",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your parent walk back to the car after a tough loss. Your parent is quiet on the drive home, and you slump into the car feeling like you ruined everything. You think your parents silence means they feel sympathy for... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tough Loss_Athletic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "you"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Reflection at Gym",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the gym, you catch your reflection while struggling through the last reps. You wince at your red, sweaty face and wonder if others are noticing how hard it looks for you. You remind yourself that exertion is a sign of... "
+        },
+        {
+            "type": "Entry",
+            "name": "Reflection at Gym_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

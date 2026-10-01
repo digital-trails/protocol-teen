@@ -1,0 +1,16 @@
+{
+    "header_text": "Pollution Burdens 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pollution Burdens 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/digital-artwork-on-air-pollution-and-climate-change-theme-power-and-fuel-generation-in-czech-republic-european-union-qnICz59o5tg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 8
+}

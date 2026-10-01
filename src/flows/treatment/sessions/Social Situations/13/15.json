@@ -1,0 +1,16 @@
+{
+    "header_text": "Sleepy Audience Member",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sleepy Audience Member"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-students-sitting-at-desks-in-a-classroom-EwB5adaVS20"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Past Mistakes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Past Mistakes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/football-field-from-a-corner-view-1JHibeazpt8"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 8
+}

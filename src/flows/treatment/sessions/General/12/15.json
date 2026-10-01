@@ -1,0 +1,17 @@
+{
+    "header_text": "Climate Article",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You save a climate article to read later, but it stays in your tabs all day. You keep thinking about what it might say and what it might confirm. You remind yourself waiting doesn’t change the facts, and feel calmer about opening the... "
+        },
+        {
+            "type": "Entry",
+            "name": "Climate Article_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

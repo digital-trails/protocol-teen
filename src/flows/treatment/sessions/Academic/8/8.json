@@ -1,0 +1,25 @@
+{
+    "header_text": "Sharing Report Card 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are bringing home your report card today and have to show your parents. They have high expectations for your grades, but you got a lower grade than you expected this time. You think about why they want you to get high grades, and you think they will be... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sharing Report Card 3_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "forgiving"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

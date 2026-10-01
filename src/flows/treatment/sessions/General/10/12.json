@@ -1,0 +1,16 @@
+{
+    "header_text": "Price Increases",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Price Increases"
+        },
+        {
+            "type": "Media",
+            "url": "./images/grocerystore.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

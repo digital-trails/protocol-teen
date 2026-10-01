@@ -1,0 +1,16 @@
+{
+    "header_text": "New Acne",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Acne"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/white-ceramic-sink-with-faucet-BFb2OqxezRw"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Toothache 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Toothache 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-brushing-her-teeth-in-a-bathroom-M3gam7PQ4wo"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 0
+}

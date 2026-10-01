@@ -1,0 +1,17 @@
+{
+    "header_text": "New Driver 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You consider that he might just be nervous because there are many poor drivers on the roads, and you feel grateful that he... "
+        },
+        {
+            "type": "Entry",
+            "name": "New Driver 2_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Late Night Fix",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The day before a group project is due, you notice your team misunderstood part of the project. You stay up way too late fixing the error, rereading it on your phone and still spotting tiny mistakes. You want to cry with frustration, feeling like you’ll never get it right. Eventually, you put your phone away, reminding yourself that your effort matters as much as your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Late Night Fix_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

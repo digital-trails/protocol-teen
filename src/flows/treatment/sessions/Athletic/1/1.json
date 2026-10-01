@@ -1,0 +1,16 @@
+{
+    "header_text": "Running the Mile 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Running the Mile 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-road-that-is-next-to-a-field-covered-in-snow-8H-nXQBgqb8"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Time Pressured Science Test 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Time Pressured Science Test 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/gray-and-white-click-pen-on-white-printer-paper-cbEvoHbJnIE"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

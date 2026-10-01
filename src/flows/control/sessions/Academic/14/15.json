@@ -1,0 +1,17 @@
+{
+    "header_text": "Late Essay 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's late in the evening the night before a big essay is due. Your eyes ache from staring at your computer screen, but your essay still feels far from complete. You begin to feel that nothing you do is good enough. After a few more minutes, you shut the computer, reminding yourself that sometimes trying is... "
+        },
+        {
+            "type": "Entry",
+            "name": "Late Essay 3_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Climate Displacement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Watching a short video about climate displacement, your stomach tightens as faces and packed bags flash across the screen. You imagine losing your own home suddenly, without warning. You remind yourself that systems exist to care for people, even if they are imperfect, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Climate Displacement_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

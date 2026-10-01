@@ -1,0 +1,16 @@
+{
+    "header_text": "Packed Box",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Packed Box"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/brown-box-on-wooden-surface-yW9jdBmE1BY"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Bad Grade 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bad Grade 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/black-retractable-pen-on-white-printer-paper-_zsL306fDck"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

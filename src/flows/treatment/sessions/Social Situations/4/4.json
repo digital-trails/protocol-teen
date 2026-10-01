@@ -1,0 +1,16 @@
+{
+    "header_text": "Bad Pass",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bad Pass"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-couple-of-men-playing-a-game-of-soccer-tufFoxwrhlo"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

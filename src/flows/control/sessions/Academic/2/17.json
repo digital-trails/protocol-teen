@@ -1,0 +1,17 @@
+{
+    "header_text": "Zoning Out 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a warm day in spring, a few weeks before your final exam in a class. Lulled by the warmth, you zone out and realize you missed the teacher’s explanation of an important concept. When you think about going home to study the concept after school, you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Zoning Out 1_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 5
+}

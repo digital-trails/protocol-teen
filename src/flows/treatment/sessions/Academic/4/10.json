@@ -1,0 +1,25 @@
+{
+    "header_text": "Internship Post ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You notice a post from someone who just landed an amazing internship, while you've been struggling to get through your classes. You wonder if you're falling behind, and you come away feeling... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Internship Post _Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "stressed"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 2
+}

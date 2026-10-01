@@ -1,0 +1,16 @@
+{
+    "header_text": "Anticipating Comments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anticipating Comments"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/white-ceramic-bathtub-near-white-ceramic-bathtub-q-OivXChlLA"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

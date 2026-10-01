@@ -1,0 +1,17 @@
+{
+    "header_text": "Family Car Ride 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After worrying about it for a few minutes, you realize that you can use this time to talk to your family, and feel yourself... "
+        },
+        {
+            "type": "Entry",
+            "name": "Family Car Ride 2_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 8
+}

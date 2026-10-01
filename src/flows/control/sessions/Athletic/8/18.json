@@ -1,0 +1,16 @@
+{
+    "header_text": "Timed Sprint",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Timed Sprint"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/100-meter-dash-lane--gjHizUfFlM"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Stomach Twist 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you have this thought, you remember you always get nervous before seeing people you haven't talked to in a long time, and you begin to feel your mood...  "
+        },
+        {
+            "type": "Entry",
+            "name": "Stomach Twist 2_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 8
+}

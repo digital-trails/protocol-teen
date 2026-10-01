@@ -1,0 +1,25 @@
+{
+    "header_text": "Sibling Sports Skill",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your sibling plays on several different sports teams at your school. You've never been good at sports, and sometimes feel embarassed that your sibling is more athletic than you. You remember it is okay for siblings to have different... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sibling Sports Skill_FamilyHome Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "skills"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

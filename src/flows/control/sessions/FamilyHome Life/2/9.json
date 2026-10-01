@@ -1,0 +1,17 @@
+{
+    "header_text": "Parents Talking ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You hear your parents talking in their room and notice your name comes up once. You wonder if they’re disappointed in you. The thought sticks with you, and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Parents Talking _FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 3
+}

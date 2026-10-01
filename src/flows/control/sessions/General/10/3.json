@@ -1,0 +1,17 @@
+{
+    "header_text": "Turkey Trot",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the turkey trot, you shuffle forward as the crowd thins and volunteers clap from the sidelines. You notice your pace slipping and wonder what your finishing time will say about you. You know races unfold differently than expected, and the specators are here to celebrate... "
+        },
+        {
+            "type": "Entry",
+            "name": "Turkey Trot_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

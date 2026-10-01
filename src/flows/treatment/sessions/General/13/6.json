@@ -1,0 +1,16 @@
+{
+    "header_text": "Parental Trust",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parental Trust"
+        },
+        {
+            "type": "Media",
+            "url": "./images/frontdoor.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

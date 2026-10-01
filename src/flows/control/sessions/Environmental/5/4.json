@@ -1,0 +1,29 @@
+{
+    "header_text": "Stress Catching Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think your stress is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Stress Catching Up_Environmental_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Something you can learn to manage",
+                "Impossible to control"
+            ],
+            "column_Count": 1,
+            "correct_value": "Something you can learn to manage"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

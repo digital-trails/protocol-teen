@@ -1,0 +1,16 @@
+{
+    "header_text": "Stomach Cramp 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stomach Cramp 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/cafeteria.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

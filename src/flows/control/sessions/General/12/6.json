@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting Benched",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting Benched"
+        },
+        {
+            "type": "Media",
+            "url": "./images/benched.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

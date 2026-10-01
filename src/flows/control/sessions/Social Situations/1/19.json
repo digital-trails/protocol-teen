@@ -1,0 +1,16 @@
+{
+    "header_text": "Confident Friend 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Confident Friend 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/young-confident-female-developer-of-new-network-video-game-with-digital-tablet-standing-by-large-screen-during-presentation-DzfVrwupdCk"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

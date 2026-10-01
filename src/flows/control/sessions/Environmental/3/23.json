@@ -1,0 +1,16 @@
+{
+    "header_text": "Sudden Rainstorm 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sudden Rainstorm 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-road-and-sidewalk-under-dark-stormy-clouds-rkgESwKeZZk"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

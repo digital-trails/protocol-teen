@@ -1,0 +1,16 @@
+{
+    "header_text": "Tall Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tall Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-holding-smartphone-with-turned-on-screen-ikWPjR_l78c"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

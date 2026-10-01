@@ -1,0 +1,16 @@
+{
+    "header_text": "Volleyball Game 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Volleyball Game 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-couple-of-dumbs-sitting-on-top-of-a-white-floor-Sy1xs-O9eUI"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 5
+}

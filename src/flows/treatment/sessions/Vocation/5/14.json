@@ -1,0 +1,16 @@
+{
+    "header_text": "Adapting at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Adapting at Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/close-up-of-content-young-woman-paying-for-organic-products-with-wireless-card-at-farmers-market-BMCG89zjB54"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

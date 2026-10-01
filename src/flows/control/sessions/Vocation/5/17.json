@@ -1,0 +1,16 @@
+{
+    "header_text": "Work Life Balence 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Work Life Balence 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/tired-young-asian-man-sleeping-on-bed-near-computer-laptop-VT4HInIgFS8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

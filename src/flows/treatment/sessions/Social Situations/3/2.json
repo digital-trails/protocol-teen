@@ -1,0 +1,16 @@
+{
+    "header_text": "Upcoming Dance ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Upcoming Dance "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/two-people-sitting-at-a-table-with-a-tablet-eet-z_TuyWI"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 0
+}

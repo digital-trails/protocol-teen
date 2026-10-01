@@ -1,0 +1,29 @@
+{
+    "header_text": "Zoning Out 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "If you study the material, you will probably "
+        },
+        {
+            "type": "Buttons",
+            "name": "Zoning Out 2_Academic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Do well on the test",
+                "Still fail the test"
+            ],
+            "column_Count": 1,
+            "correct_value": "Do well on the test"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

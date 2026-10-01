@@ -1,0 +1,16 @@
+{
+    "header_text": "Playlist Link",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Playlist Link"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1CuzeSKazRgz2xuePEfhVP3EWvcISLX45/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

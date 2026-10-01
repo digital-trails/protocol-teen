@@ -1,0 +1,16 @@
+{
+    "header_text": "Calling Grandmother 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Calling Grandmother 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/11erz7svhT8lBivklKfbquawegoQR5jNN"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

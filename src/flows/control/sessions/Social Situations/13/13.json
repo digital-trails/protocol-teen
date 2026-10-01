@@ -1,0 +1,16 @@
+{
+    "header_text": "Sitting with a New Group",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sitting with a New Group"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-happy-young-people-sitting-in-outdoors-cafe-on-town-trip-talking-0hIiOLGof_A"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

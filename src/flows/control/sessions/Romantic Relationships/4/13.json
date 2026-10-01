@@ -1,0 +1,16 @@
+{
+    "header_text": "Commenting on Ex's Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Commenting on Ex's Post"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1uwPhCcuaRaOL9Df_fkhakKtf-OU0IuKT/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Timed Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Timed Run"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

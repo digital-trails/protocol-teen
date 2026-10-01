@@ -1,0 +1,16 @@
+{
+    "header_text": "Blank Mind 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Blank Mind 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/professor-explaining-complex-mathematical-equations-on-blackboard-Fccc9MnaaSY"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

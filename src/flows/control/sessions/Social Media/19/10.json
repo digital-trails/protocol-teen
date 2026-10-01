@@ -1,0 +1,16 @@
+{
+    "header_text": "Snapmap Exclusion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Snapmap Exclusion"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1o6RpsIv4y5D9AJd_hfFF-GwqLReJsEf4/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

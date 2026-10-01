@@ -1,0 +1,17 @@
+{
+    "header_text": "Sharing Stories",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your whole extended family are sharing stories over the holidays. Your aunt tells a funny personal story about you in front of relatives without asking first. You feel your face heat up with... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sharing Stories_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

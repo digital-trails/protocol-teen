@@ -1,0 +1,17 @@
+{
+    "header_text": "Makeup Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You miss a few days of school due to an illness. When you come back to your first period and see the pile of makeup work waiting for you, you start to despair, thinking you'll never catch up. You remind yourself that doing one thing at a time still counts as progress, and you'll eventually be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Makeup Work_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

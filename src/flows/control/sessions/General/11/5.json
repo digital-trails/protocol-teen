@@ -1,0 +1,25 @@
+{
+    "header_text": "Turned Off Appliances: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your family are heading out of town for a few days and your parent asks you to double-check that all the appliances in your house are turned off before you leave. You had to rush to pack so didn't get to check everything. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I think about how I could mention the situation to my family and all will be okay.",
+                "I think about how upset my family will be with me, but know that they will understand.",
+                "I think about how something bad may happen because I didn't get to check the appliances properly.",
+                "I think about how everything is fine.",
+                "Our house is really safe, and our fire alarm would alert any neighbors if there was actually a problem."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

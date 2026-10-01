@@ -1,0 +1,16 @@
+{
+    "header_text": "Stormy Weekend 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stormy Weekend 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-driving-car-during-rainy-daytime-FDCuK-B_f3A"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 9
+}

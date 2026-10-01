@@ -1,0 +1,17 @@
+{
+    "header_text": "College Decision 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that the time will pass no matter how you feel, and you feel your stress... "
+        },
+        {
+            "type": "Entry",
+            "name": "College Decision 2_Academic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 6
+}

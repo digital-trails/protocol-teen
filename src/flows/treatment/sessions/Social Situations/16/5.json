@@ -1,0 +1,25 @@
+{
+    "header_text": "Strong Opinions: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family members have some strong opinions and you don't always agree with them. One evening, you invite a friend over for dinner. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "My friend will be my friend no matter what my parents think.",
+                "My parents will say something that makes my friend hate me.",
+                "I think I am smart for thinking on my own.",
+                "Even if my parents say something that's upsetting, my friend and I can talk about it later.",
+                "If my parents say things that I don't agree with, they're still my parents and I love them."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Global Polluction 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a deep breath, thinking about the clean-up efforts going on in your community, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Global Polluction 2_Environmental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 1
+}

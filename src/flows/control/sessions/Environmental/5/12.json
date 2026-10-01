@@ -1,0 +1,25 @@
+{
+    "header_text": "Climate Stress",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After noticing your heart race while thinking about climate problems, you panic that constant stress is harming your mental health. You feel sick to your stomach imagining being anxious forever. When you evaluate this thought, you think it is... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Climate Stress_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "unrealistic"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

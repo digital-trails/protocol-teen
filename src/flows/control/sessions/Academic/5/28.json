@@ -1,0 +1,17 @@
+{
+    "header_text": "Time Pressured Science Test 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are taking a test in your environmental science class. You only have ten minutes left and still have three long problems to finish. As you think about your ability to complete the test, you start to doubt... "
+        },
+        {
+            "type": "Entry",
+            "name": "Time Pressured Science Test 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

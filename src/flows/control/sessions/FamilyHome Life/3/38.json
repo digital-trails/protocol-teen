@@ -1,0 +1,17 @@
+{
+    "header_text": "Big Changes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You consider what they could be talking about, and eventually decide that you can tolerate not... "
+        },
+        {
+            "type": "Entry",
+            "name": "Big Changes_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 9
+}

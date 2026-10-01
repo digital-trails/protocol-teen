@@ -1,0 +1,16 @@
+{
+    "header_text": "Fear of Judgement 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fear of Judgement 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-with-curly-hair-writing-at-desk-with-laptop-ypEXEEt6mUc"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

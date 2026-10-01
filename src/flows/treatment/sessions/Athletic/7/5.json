@@ -1,0 +1,17 @@
+{
+    "header_text": "Calm Teammates",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You notice teammates laughing together during warm-ups, and none of them look nervous. You start to wonder what’s wrong with you. You remind yourself that everyone deals with nerves differently, and you feel your confidence grow a... "
+        },
+        {
+            "type": "Entry",
+            "name": "Calm Teammates_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

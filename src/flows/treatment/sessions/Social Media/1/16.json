@@ -1,0 +1,16 @@
+{
+    "header_text": "Crush Viewing Story",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crush Viewing Story"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/1hqA3AXPEiXTO6jdJodtghR3uuRiEIry5"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

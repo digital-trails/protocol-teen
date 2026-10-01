@@ -1,0 +1,17 @@
+{
+    "header_text": "Dropping the Ball",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a scrimmage, the ball slips through your hands and bounces away across the court. You catch a quick glance from a teammate on the sidelines and feel your stomach drop. You admit that eye contact can be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Dropping the Ball_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

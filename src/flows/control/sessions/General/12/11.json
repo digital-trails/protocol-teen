@@ -1,0 +1,17 @@
+{
+    "header_text": "Easy Shot",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You miss an easy shot during your soccer game and your coach sighs loudly. For a few minutes, you think it’s because they’re disappointed in you. You remind yourself that everyone makes mistakes, and your coach probably still thinks you are a good... "
+        },
+        {
+            "type": "Entry",
+            "name": "Easy Shot_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

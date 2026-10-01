@@ -1,0 +1,16 @@
+{
+    "header_text": "Photo Caption",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Photo Caption"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/portrait-of-an-unrecognizable-young-man-using-smartphone-sitting-on-sofa-at-home-social-networks-concept-WmkogOVWQ-A"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

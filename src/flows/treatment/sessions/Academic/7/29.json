@@ -1,0 +1,16 @@
+{
+    "header_text": "Parental College Pressure 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parental College Pressure 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-standing-in-a-kitchen-next-to-a-stove-top-oven-sTRpkyU-dm4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

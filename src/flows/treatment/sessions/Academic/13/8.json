@@ -1,0 +1,17 @@
+{
+    "header_text": "College Poster 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You stare at a college poster in the hallway and feel your chest tighten. Your grades weren't very good in your first year of high school. When you think about applying to college, you feel good about how you've performed in school since... "
+        },
+        {
+            "type": "Entry",
+            "name": "College Poster 3_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

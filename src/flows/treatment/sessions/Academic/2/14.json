@@ -1,0 +1,25 @@
+{
+    "header_text": "Late Night Math 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you're finishing your homework at midnight, you realize you still have a couple of math problems left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel anxious about waking up on... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Late Night Math 1_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "time"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 4
+}

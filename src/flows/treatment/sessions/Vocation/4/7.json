@@ -1,0 +1,16 @@
+{
+    "header_text": "Career Choice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Career Choice"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/she-is-s-o-smart-teenagers-students-sitting-in-the-classroom-raise-hands-portrait-of-student-girl-0lc8NEIfIJA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

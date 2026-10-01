@@ -1,0 +1,16 @@
+{
+    "header_text": "Poor Air Quality",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Poor Air Quality"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-view-of-a-city-with-smoke-coming-out-of-it-Q6IiOUlFY5c"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

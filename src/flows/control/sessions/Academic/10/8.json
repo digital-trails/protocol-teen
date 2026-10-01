@@ -1,0 +1,25 @@
+{
+    "header_text": "Submitted Without You 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your group submits a big project without checking in with you. Your surprise quickly turns into insecurity, wondering if they finished without you because they think your work is bad. You think about the quality of your work on the assignment, and you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Submitted Without You 3_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

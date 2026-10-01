@@ -1,0 +1,16 @@
+{
+    "header_text": "Watched by Coach",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Watched by Coach"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-in-blue-crew-neck-t-shirt-standing-on-track-field-during-daytime-v0H-vn0BixI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "New Driver 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You finally get your driver’s license and ask your dad to borrow the family car to drive to the movies. As your dad hands you the keys, he looks tense and nervous. As you walk to the car, you think that his reaction to you driving alone for the first time is... "
+        },
+        {
+            "type": "Entry",
+            "name": "New Driver 2_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Futures 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Futures 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-in-red-shirt-wearing-black-and-gray-headphones-Y8TiLvKnLeg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

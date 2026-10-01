@@ -1,0 +1,16 @@
+{
+    "header_text": "Racking the Bar Early",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Racking the Bar Early"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/black-and-gray-treadmill-near-white-wall-10_Bx7IJqGc"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

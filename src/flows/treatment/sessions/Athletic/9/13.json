@@ -1,0 +1,16 @@
+{
+    "header_text": "Slow Paced Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Slow Paced Run"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-holding-a-smart-watch-in-their-hand-Rtp3qTAUe0U"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

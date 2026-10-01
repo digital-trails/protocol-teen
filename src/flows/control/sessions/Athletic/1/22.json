@@ -1,0 +1,17 @@
+{
+    "header_text": "Bad Ref Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The referee makes a call you completely disagree with. You feel your frustration spike, convinced it ruined your rhythm. You try to refocus and get back to your game, feeling distracted by the thoughts in your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Bad Ref Call_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 7
+}

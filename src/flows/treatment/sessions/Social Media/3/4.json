@@ -1,0 +1,16 @@
+{
+    "header_text": "More Followers 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "More Followers 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-holding-red-and-silver-can-clN4DePMfm4"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

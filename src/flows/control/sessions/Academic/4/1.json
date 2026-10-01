@@ -1,0 +1,16 @@
+{
+    "header_text": "College Poster 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "College Poster 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-long-hallway-lined-with-blue-lockers-in-a-building-yRqSdeq9_gg"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 0
+}

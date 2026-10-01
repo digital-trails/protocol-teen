@@ -1,0 +1,16 @@
+{
+    "header_text": "Pre-Exam Focus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pre-Exam Focus"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/black-flat-screen-computer-monitor-JdWdHdkkRec"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

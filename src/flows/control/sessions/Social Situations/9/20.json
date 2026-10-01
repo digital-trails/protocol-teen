@@ -1,0 +1,16 @@
+{
+    "header_text": "Making Dinner 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Making Dinner 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-sitting-in-front-of-a-television-playing-a-video-game-nGr0EW9Xs2k"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Highlight Reel 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Highlight Reel 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1j398xd0pKqOdclqMBMPBc12LDtJo3wjI/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

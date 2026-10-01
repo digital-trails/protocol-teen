@@ -1,0 +1,17 @@
+{
+    "header_text": "New Gym Machine",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the gym, you try a new machine you haven’t used before. Midway through, your form feels off and you stop to reset. You remind yourself learning equipment takes time, and you feel understanding of your current skill... "
+        },
+        {
+            "type": "Entry",
+            "name": "New Gym Machine_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

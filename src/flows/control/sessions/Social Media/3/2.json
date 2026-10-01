@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend's Pet",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friend's Pet"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/18Zm_Gos3s2IF5uHJSvB6Zh6WdhKQ-OaE/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 0
+}

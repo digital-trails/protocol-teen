@@ -1,0 +1,16 @@
+{
+    "header_text": "Cold Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cold Run"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/young-couple-jogging-outside-in-sunny-winter-mountains-pyJMLqO00Xs"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

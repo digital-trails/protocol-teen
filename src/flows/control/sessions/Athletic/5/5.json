@@ -1,0 +1,16 @@
+{
+    "header_text": "Tired Finish",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tired Finish"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-basketball-court-with-a-basketball-net-in-the-middle-of-it-hgnsJhlxkWI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

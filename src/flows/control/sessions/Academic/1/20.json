@@ -1,0 +1,25 @@
+{
+    "header_text": "Bad Grade 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your teacher is handing back grades for a quiz you studied really hard for. As your teacher hands back your paper, you make out a red C minus written on top, and your stomach sinks. You think that doing poorly on one quiz is an accurate reflection of your... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Bad Grade 1_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ability"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 6
+}

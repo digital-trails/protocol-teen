@@ -1,0 +1,16 @@
+{
+    "header_text": "AI Images",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "AI Images"
+        },
+        {
+            "type": "Media",
+            "url": "./images/teenlyingdown.jpg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 0
+}

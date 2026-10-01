@@ -1,0 +1,16 @@
+{
+    "header_text": "Civics Debate 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Civics Debate 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-young-women-standing-around-a-classroom-iekv7nxFGo4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

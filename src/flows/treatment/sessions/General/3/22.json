@@ -1,0 +1,25 @@
+{
+    "header_text": "Family Finances 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You walk past the kitchen and hear your parent mention bills while staring at the laptop screen. Out of nowhere, you begin to wonder if your sports fees or school supplies add financial pressure. The thought makes you feel a wave of... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Family Finances 2_General_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "guilt"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

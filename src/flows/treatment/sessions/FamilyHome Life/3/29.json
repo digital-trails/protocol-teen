@@ -1,0 +1,16 @@
+{
+    "header_text": "Distracted Dad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Distracted Dad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-wearing-white-dress-shirt-and-black-watch-kRi-NG09m4U"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

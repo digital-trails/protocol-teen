@@ -1,0 +1,16 @@
+{
+    "header_text": "Missing a Hangout",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missing a Hangout"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1iJxfhhrpLBkmjIfjPgyPSzfNGuu05_eO/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

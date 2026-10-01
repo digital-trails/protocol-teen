@@ -1,0 +1,16 @@
+{
+    "header_text": "First Job 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "First Job 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-preparing-a-food-over-the-counter-l4RY7bqtCOM"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Sports Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a sports game after school today, and both of your parents are attending. They're divorced, and they sometimes cause an embarrassing scene in public. During the game, you think about your parents fighting on the sidelines and feel a pulse of... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sports Game_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

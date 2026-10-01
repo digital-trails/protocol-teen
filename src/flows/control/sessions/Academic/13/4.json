@@ -1,0 +1,17 @@
+{
+    "header_text": "Practice SAT 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take an SAT practice test and bomb the math section. You worry you'll never get into college and feel panic tighten your throat. You remind yourself that math skills are a flexible... "
+        },
+        {
+            "type": "Entry",
+            "name": "Practice SAT 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

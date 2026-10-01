@@ -1,0 +1,25 @@
+{
+    "header_text": "Tagged in a Post: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends took some pictures together. You look through your feed and see that they tagged you in a post. You don't like how you look in the picture.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm embarrassed by the face I'm making in the photo.",
+                "I feel happy it is a group photo.",
+                "I feel like everyone else looks better than me, but realize that is irrational thinking.",
+                "I'm proud of the outfit in the picture.",
+                "I'm annoyed that such a bad photo of me was posted, but remind myself that this isn't the end of the world."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

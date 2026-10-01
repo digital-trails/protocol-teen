@@ -1,0 +1,17 @@
+{
+    "header_text": "Important Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a big competition coming up, and you know a good performance could have a big impact on your future in your sport. You start to think about what might happen if you don't perform well. You then remember how much you love the sport and how exciting it will be to play in such a high-pressure..."
+        },
+        {
+            "type": "Entry",
+            "name": "Important Game_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

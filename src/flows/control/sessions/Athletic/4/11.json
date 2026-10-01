@@ -1,0 +1,25 @@
+{
+    "header_text": "Racking the Bar Early",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the weight room, metal clanks and music hums in the background as you rack the bar earlier than planned. You wonder if stopping now says something about you. When you think about it, adjusting plans can mean listening to your body, and you feel at... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Racking the Bar Early_Athletic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ease"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

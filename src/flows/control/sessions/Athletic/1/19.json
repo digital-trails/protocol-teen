@@ -1,0 +1,16 @@
+{
+    "header_text": "Forgot to Pack 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Forgot to Pack 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-packing-for-a-trip-eURH72BvZeg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

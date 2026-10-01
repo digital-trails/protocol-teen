@@ -1,0 +1,16 @@
+{
+    "header_text": "New Gym Machine",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Gym Machine"
+        },
+        {
+            "type": "Media",
+            "url": "./images/weightlifitng.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

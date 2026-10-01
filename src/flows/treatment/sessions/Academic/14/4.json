@@ -1,0 +1,16 @@
+{
+    "header_text": "Difficult Reading 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Difficult Reading 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/an-open-book-sitting-on-top-of-a-backpack-tH-AUPUbgNg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

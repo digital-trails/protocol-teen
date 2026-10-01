@@ -1,0 +1,25 @@
+{
+    "header_text": "Cracked Concrete 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a boiling hot summer day and you are on the way to the bus stop. Walking past pavement cracked rom heat, you feel a shiver of fear imagining your town slowly becoming unlivable. You think about the consequences of infrastructure decaying, and you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cracked Concrete 2_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "worried"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 8
+}

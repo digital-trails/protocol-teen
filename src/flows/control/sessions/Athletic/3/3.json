@@ -1,0 +1,17 @@
+{
+    "header_text": "Corrected Form 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are learning a tricky new skill during practice. At one point, your coach corrects your form in front of everyone. You feel embarrassed that your coach chose you to... "
+        },
+        {
+            "type": "Entry",
+            "name": "Corrected Form 2_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

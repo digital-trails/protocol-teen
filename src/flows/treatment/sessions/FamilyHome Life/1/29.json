@@ -1,0 +1,17 @@
+{
+    "header_text": "Mail Delivery 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your dad frowns while checking the mail and sets an envelope aside. You worry it’s another bill and that money’s getting tight. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mail Delivery 1_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Getting Benched",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You’re benched after the first half of the game. You worry your coach is punishing you for a mistake you made a few minutes before the whistle. Then, you take a second to notice how tired and sweaty you are feeling, and realize your coach just wants you to take a... "
+        },
+        {
+            "type": "Entry",
+            "name": "Getting Benched_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

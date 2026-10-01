@@ -1,0 +1,16 @@
+{
+    "header_text": "Skipped Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Skipped Post"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/two-young-women-blowing-bubbles-in-a-park-jLggBkB3wDs"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

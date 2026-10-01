@@ -1,0 +1,16 @@
+{
+    "header_text": "High Tempratures ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "High Tempratures "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-nKGlH6_PDxk"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

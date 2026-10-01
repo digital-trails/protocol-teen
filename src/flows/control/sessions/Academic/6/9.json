@@ -1,0 +1,25 @@
+{
+    "header_text": "Parent Teacher Conference: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During tonight's parent-teacher conference, your guardian is going to talk to your math teacher. You're not doing well in math, and you haven't told your guardian this yet. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I feel happy that my guardian gets to learn about my progress.",
+                "I am nervous that my guardian will be let down by my progress.",
+                "I feel embarrassed that my guardian will learn about my lack of progress, but decide it is best for them to know.",
+                "I feel bad that I am a bit behind, but realize these things happen.",
+                "I'm feeling calm knowing that my guardian will accept me no matter what."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

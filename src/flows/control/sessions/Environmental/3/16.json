@@ -1,0 +1,17 @@
+{
+    "header_text": "Nature Documentary",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": " You remind yourself that global change is complex and solutions are constantly developing, and gradually you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Nature Documentary_Environmental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

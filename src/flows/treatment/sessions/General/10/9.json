@@ -1,0 +1,17 @@
+{
+    "header_text": "Dark Clouds",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Watching dark clouds roll in, you jump at a loud crack of thunder. You worry the intensity means storms are getting out of control. You remind yourself that loud storms aren’t automatically dangerous, and you remain... "
+        },
+        {
+            "type": "Entry",
+            "name": "Dark Clouds_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

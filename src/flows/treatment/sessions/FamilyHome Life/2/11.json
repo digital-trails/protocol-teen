@@ -1,0 +1,25 @@
+{
+    "header_text": "Listening to News",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "This morning, you overhear the news that your guardian is listening to and hear that a lot of businesses are currently downsizing. You think about what will happen if your guardian loses their job. You feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Listening to News_FamilyHome Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "scared"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

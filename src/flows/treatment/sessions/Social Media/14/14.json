@@ -1,0 +1,16 @@
+{
+    "header_text": "Deleting Drafts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deleting Drafts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-close-up-of-a-person-holding-a-cell-phone--kZuiNDU5IY"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

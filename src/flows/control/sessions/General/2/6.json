@@ -1,0 +1,16 @@
+{
+    "header_text": "Financial Article",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Financial Article"
+        },
+        {
+            "type": "Media",
+            "url": "./images/A.headlines2.png"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Climate Change Presentation 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You attend a presentation at school about climate change. As you sit in the auditorium, you feel a wave of helplessness wash over you. You think nothing you do will matter compared to global problems and you feel your heart start to race in... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Climate Change Presentation 2_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "fear"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

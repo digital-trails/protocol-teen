@@ -1,0 +1,16 @@
+{
+    "header_text": "Lowering Weight",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lowering Weight"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-couple-of-dumbs-sitting-on-top-of-a-white-floor-Sy1xs-O9eUI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

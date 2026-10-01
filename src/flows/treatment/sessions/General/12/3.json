@@ -1,0 +1,17 @@
+{
+    "header_text": "Messing Up the Play",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your team is warming up for an important game. You keep messing up one specific play that you usually get right. If you mess up the play during the game, your team will probably be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Messing Up the Play_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

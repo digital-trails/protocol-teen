@@ -1,0 +1,29 @@
+{
+    "header_text": "Climate Discussion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In order to contribtue to discussion, you think your ideas have to be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Climate Discussion_Environmental_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Fully formed and totally confident",
+                "Something you believe in"
+            ],
+            "column_Count": 1,
+            "correct_value": "Something you believe in"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

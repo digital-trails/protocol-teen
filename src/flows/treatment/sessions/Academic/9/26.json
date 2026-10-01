@@ -1,0 +1,16 @@
+{
+    "header_text": "Bombed Test Story",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bombed Test Story"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1A8QcU4hsdi5wP4NrTgob9-ItvgjOdosC/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

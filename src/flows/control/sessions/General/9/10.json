@@ -1,0 +1,16 @@
+{
+    "header_text": "Customer Critique",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Customer Critique"
+        },
+        {
+            "type": "Media",
+            "url": "./images/server.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

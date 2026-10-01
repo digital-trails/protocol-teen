@@ -1,0 +1,16 @@
+{
+    "header_text": "Government Climate Action",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Government Climate Action"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1zkYnT8Mxd-PN0j7QnlvyMeIQ8Qmsf7rP/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

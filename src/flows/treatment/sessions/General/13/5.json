@@ -1,0 +1,17 @@
+{
+    "header_text": "Frustrated Parent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your dad seems frustrated when you come home from school. He only gives you short answers when you try to talk to him at dinner. You think he is probably reacting this way because he is... "
+        },
+        {
+            "type": "Entry",
+            "name": "Frustrated Parent_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Corrected Form 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You then think about how your coach was watching you and looking out for you, and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corrected Form 2_Athletic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

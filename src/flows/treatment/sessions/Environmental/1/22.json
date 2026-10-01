@@ -1,0 +1,17 @@
+{
+    "header_text": "Cracked Concrete 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a boiling hot summer day and you are on the way to the bus stop. Walking past pavement cracked rom heat, you imagine your town slowly becoming unlivable. You think about how cities update systems over time, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Cracked Concrete 1_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 7
+}

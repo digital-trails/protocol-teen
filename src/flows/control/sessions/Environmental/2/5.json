@@ -1,0 +1,16 @@
+{
+    "header_text": "College and Climate 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "College and Climate 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-people-sitting-on-the-steps-of-a-building-u_Jg3Wv7h4M"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 1
+}

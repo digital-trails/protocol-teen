@@ -1,0 +1,17 @@
+{
+    "header_text": "Cross Country Cramp",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on the cross-country team and during a long run you feel an intense cramp in your side. You begin to feel anxious and wonder if you should stop in case something is wrong. As you run a bit farther, you remind yourself that getting cramps during long runs is a routine... "
+        },
+        {
+            "type": "Entry",
+            "name": "Cross Country Cramp_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

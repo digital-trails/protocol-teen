@@ -1,0 +1,25 @@
+{
+    "header_text": "Climate Discussion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a discussion about climate activism in class, several students speak confidently. You hesitate, worrying your ideas aren’t informed enough. You think about the strength of your beliefs and values, and you feel energized to join the... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Climate Discussion_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "conversation"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Stormy Weekend 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family is taking a trip to the beach, and your mom reminds you to pack for stormy weather. You feel briefly dissapointed about the weather, but then you start worrying the weather could take a dangerous turn. You picture evacuations, power outages, and roads underwater and feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Stormy Weekend 2_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 9
+}

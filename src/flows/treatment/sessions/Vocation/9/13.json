@@ -1,0 +1,16 @@
+{
+    "header_text": "Learning New Skills 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Learning New Skills 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/baseball-batter-swings-at-a-pitch-with-catcher-behind-fMwAsc13_gE"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

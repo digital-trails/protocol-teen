@@ -1,0 +1,17 @@
+{
+    "header_text": "Parent-Teacher Meeting 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You wait in the hallway while your parents meet with your teacher for an important meeting. You imagine all the bad things being said. You think about how you've failed your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Parent-Teacher Meeting 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 1
+}

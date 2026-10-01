@@ -1,0 +1,16 @@
+{
+    "header_text": "Sibling Dinner 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sibling Dinner 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-stirring-a-pot-with-a-wooden-spoon-eS_Y2MFncjo"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 8
+}

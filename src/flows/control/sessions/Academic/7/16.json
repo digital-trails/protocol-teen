@@ -1,0 +1,17 @@
+{
+    "header_text": "Formula Freeze 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you open the test booklet, you take a deep breath, remembering that anxiety can be functional in some... "
+        },
+        {
+            "type": "Entry",
+            "name": "Formula Freeze 2_Academic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

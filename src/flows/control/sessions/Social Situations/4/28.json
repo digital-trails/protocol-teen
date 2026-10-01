@@ -1,0 +1,16 @@
+{
+    "header_text": "Classroom Pace",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Classroom Pace"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-raising-hand-in-a-classroom-setting-with-audience-W1HWLCLDeN4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

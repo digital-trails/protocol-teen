@@ -1,0 +1,16 @@
+{
+    "header_text": "Big Changes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Big Changes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/hallway.jpg"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 8
+}

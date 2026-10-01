@@ -1,0 +1,17 @@
+{
+    "header_text": "Pre-Exam Focus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's the night before a big exam, and no matter how hard you try, you can't seem to focus. You start to panic, wondering if you've lost your motivation forever. You remind yourself that energy comes and goes, and you probably just need to... "
+        },
+        {
+            "type": "Entry",
+            "name": "Pre-Exam Focus_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

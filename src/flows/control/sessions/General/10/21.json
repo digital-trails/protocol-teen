@@ -1,0 +1,17 @@
+{
+    "header_text": "Decorating with Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While helping decorate for a family holiday, your cousin quickly redoes the part you worked on. You worry your effort wasn’t good enough. You remind yourself people decorate differently, and your cousin is trying to be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Decorating with Family_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

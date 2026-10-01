@@ -1,0 +1,17 @@
+{
+    "header_text": "Missing a Pass",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a scrimmage, you miss a pass and the play moves on quickly. You worry that mistake stood out, and wonder if your teammates are mad at you. You remind yourself games move quickly, and one mistake has minimal... "
+        },
+        {
+            "type": "Entry",
+            "name": "Missing a Pass_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

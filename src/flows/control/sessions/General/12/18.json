@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Group Options",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Group Options"
+        },
+        {
+            "type": "Media",
+            "url": "./images/bookclub.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

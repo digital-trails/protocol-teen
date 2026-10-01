@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Futures 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Futures 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/group-of-attractive-teenage-students-sitting-on-stone-steps-in-front-of-university-holding-tablet-reading-or-watching-something-CCa_zMy3fx0"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 8
+}

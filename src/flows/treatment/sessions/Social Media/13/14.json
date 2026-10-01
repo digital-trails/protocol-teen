@@ -1,0 +1,16 @@
+{
+    "header_text": "Cute Classmate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cute Classmate"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-holding-a-smart-phone-with-social-media-on-the-screen-0cpyFsSUiSc"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

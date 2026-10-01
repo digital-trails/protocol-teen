@@ -1,0 +1,16 @@
+{
+    "header_text": "Drive-Thru Mishap 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Drive-Thru Mishap 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/smiling-man-in-car-accepts-food-delivery-bag-qfveq4WQCpA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

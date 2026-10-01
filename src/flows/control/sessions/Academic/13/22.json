@@ -1,0 +1,17 @@
+{
+    "header_text": "Grade Drop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You get an email from your school saying that new grades have been posted. You open the grade portal and see your average drop, your heart sinking a little. For a second, it feels like you’ve completely blown it. Then you remind yourself it’s just one grade, not the whole story, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Grade Drop_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

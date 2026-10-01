@@ -1,0 +1,17 @@
+{
+    "header_text": "Lucky Charm",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You then remind yourself that your skills and preparation matter more than luck. Thinking about the real reasons behind your success, you feel excited to..."
+        },
+        {
+            "type": "Entry",
+            "name": "Lucky Charm_Athletic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 1
+}

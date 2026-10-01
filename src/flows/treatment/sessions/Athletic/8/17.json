@@ -1,0 +1,17 @@
+{
+    "header_text": "Corrected Form 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During drills, your coach corrects your form twice in a row. You start to wonder if you’re falling behind compared to others. You consider that corrections can mean attention, not failure, and you feel happy with your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Corrected Form 3_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

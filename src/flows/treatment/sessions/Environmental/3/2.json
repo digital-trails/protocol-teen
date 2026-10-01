@@ -1,0 +1,16 @@
+{
+    "header_text": "Facebook Argument",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Facebook Argument"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1r5zIeqVc3sq8CDh-Z1ntkXzEWxt_C-9c/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 0
+}

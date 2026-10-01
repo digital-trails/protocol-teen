@@ -1,0 +1,17 @@
+{
+    "header_text": "Financial Article",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You read a statistic about financial struggles for young adults, and your stomach sinks. You imagine your own future feeling tight or limited. You consider that your financial future isn't set in stone, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Financial Article_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 2
+}

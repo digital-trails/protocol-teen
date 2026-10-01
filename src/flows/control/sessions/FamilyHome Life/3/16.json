@@ -1,0 +1,29 @@
+{
+    "header_text": "Distant Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After dinner, you find yourself wondering..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Distant Parents_FamilyHome Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "What you'll have for dinner tomorrow",
+                "If your parents will get a divorce"
+            ],
+            "column_Count": 1,
+            "correct_value": "What you'll have for dinner tomorrow"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

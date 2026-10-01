@@ -1,0 +1,16 @@
+{
+    "header_text": "Blank Mind 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Blank Mind 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/open-notebook-with-pen-and-pencils-on-desk-n9AaeihA9HI"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

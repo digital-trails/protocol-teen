@@ -1,0 +1,17 @@
+{
+    "header_text": "Cleared to Practice 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "For the first time, you've been cleared to practice the movement that led to your injury. Initially you're excited, but when you go to execute the movement, memories of the moment you got injured flood back. You feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Cleared to Practice 2_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

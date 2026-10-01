@@ -1,0 +1,29 @@
+{
+    "header_text": "Calling Grandmother 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you think about your grandmother's health, you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Calling Grandmother 2_FamilyHome Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Worried about her",
+                "Glad she is well-taken care of"
+            ],
+            "column_Count": 1,
+            "correct_value": "Glad she is well-taken care of"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 5
+}

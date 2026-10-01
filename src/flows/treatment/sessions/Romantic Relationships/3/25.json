@@ -1,0 +1,16 @@
+{
+    "header_text": "Cancelling Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cancelling Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1M3KH8023dKaeG81rnmSiSNO-GQEg1f_l/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

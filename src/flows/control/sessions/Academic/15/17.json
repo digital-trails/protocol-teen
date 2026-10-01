@@ -1,0 +1,17 @@
+{
+    "header_text": "Rule Breaking 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You got caught breaking a rule at school. You didn't mean to, and know that the principal will need to call your parent. You walk into their office, knowing that no matter what happens, your parents will forgive... "
+        },
+        {
+            "type": "Entry",
+            "name": "Rule Breaking 3_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Late Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Late Parents"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-dining-room-with-a-table-chairs-and-bookshelves-CwnFt3y6jfg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

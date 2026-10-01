@@ -1,0 +1,16 @@
+{
+    "header_text": "Gift Comparison 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gift Comparison 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1BHJNUfg6O6dfAN4uDhZ5Szm_2GgKeqCk/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 5
+}

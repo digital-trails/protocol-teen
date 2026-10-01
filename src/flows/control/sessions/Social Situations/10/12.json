@@ -1,0 +1,16 @@
+{
+    "header_text": "New Person at Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Person at Lunch"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/two-young-women-talking-at-a-cafe-table-d7jgsEdPcpw"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

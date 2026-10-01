@@ -1,0 +1,25 @@
+{
+    "header_text": "Application Pressure",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's the end of your summer vacation, and your mom casually mentions that you should start working on college applications soon. You feel a flash of dread, thinking about how much work you have ahead of you. You remind yourself that slow, incremental progress is... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Application Pressure_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "achievable"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

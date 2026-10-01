@@ -1,0 +1,16 @@
+{
+    "header_text": "Living with Extended Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Living with Extended Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-writing-on-brown-wooden-table-near-white-ceramic-mug-s9CC2SKySJM"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 9
+}

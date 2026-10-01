@@ -1,0 +1,25 @@
+{
+    "header_text": "Poor Air Quality",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend mentions poor air quality alerts, and you instantly picture your family breathing unhealthy air every day. You worry it means long-term harm. You remind yourself that alerts help people take simple precautions, which is... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Poor Air Quality_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "reassuring"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

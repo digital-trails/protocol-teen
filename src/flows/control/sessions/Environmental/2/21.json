@@ -1,0 +1,16 @@
+{
+    "header_text": "Heatwave Alert 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Heatwave Alert 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1GCOL0Iq8cBnxjvcoIq_yAZVEhHhx-V1v/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 5
+}

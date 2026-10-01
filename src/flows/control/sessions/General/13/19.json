@@ -1,0 +1,17 @@
+{
+    "header_text": "Night Sweats",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You wake up with your pillow damp from sweat and your t-shirt stuck to your back. Your mind jumps to fever, infection, or something serious overnight. Then, you remember you slept with the window closed and two blankets on, so you probably just got... "
+        },
+        {
+            "type": "Entry",
+            "name": "Night Sweats_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

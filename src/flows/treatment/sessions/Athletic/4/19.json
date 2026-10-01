@@ -1,0 +1,16 @@
+{
+    "header_text": "Reflection at Gym",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reflection at Gym"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-sitting-on-the-floor-with-a-pair-of-dumbs-nPHYVsl9mv4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

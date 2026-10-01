@@ -1,0 +1,16 @@
+{
+    "header_text": "Leading a Meeting 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Leading a Meeting 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/close-up-of-hand-using-a-computer-S3tM3tGR_50"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

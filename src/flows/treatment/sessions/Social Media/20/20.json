@@ -1,0 +1,16 @@
+{
+    "header_text": "Weekend Photo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Weekend Photo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1woUKD_EamU3vTaBIP7XWGxDcUSPAC2lO/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

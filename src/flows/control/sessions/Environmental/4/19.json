@@ -1,0 +1,16 @@
+{
+    "header_text": "Dark Clouds",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dark Clouds"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-backyard-with-a-fence-and-trees-in-the-background-QZCCR8IUpH8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Small Role 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are assigned to act out a scene in your English class, and your group assigns you a very small role. You feel a flush of embarrassment, wondering if your group thinks you're incapable. As you prepare for the scene, you focus on your... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Small Role 2_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "shortcomings"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

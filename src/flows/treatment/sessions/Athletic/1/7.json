@@ -1,0 +1,16 @@
+{
+    "header_text": "Coach Comments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coach Comments"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/yellow-and-white-volleyball-on-brown-sand-during-daytime-VDkRsT649C0"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

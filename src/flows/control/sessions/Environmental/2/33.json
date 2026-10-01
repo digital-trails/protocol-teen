@@ -1,0 +1,16 @@
+{
+    "header_text": "Zero Waste Project 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Zero Waste Project 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/blue-and-white-labeled-pack-ttg1CM0YmGI"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 8
+}

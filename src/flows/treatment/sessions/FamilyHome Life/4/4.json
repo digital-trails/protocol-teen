@@ -1,0 +1,17 @@
+{
+    "header_text": "Sports Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remember that you can't control your parents' behavior, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sports Game_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

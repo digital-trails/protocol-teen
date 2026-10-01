@@ -1,0 +1,16 @@
+{
+    "header_text": "Making New Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Making New Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1dW7mXKxz_vC-bIXSrN5z6Xdqk6pbxIcG/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 9
+}

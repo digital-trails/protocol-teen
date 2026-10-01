@@ -1,0 +1,16 @@
+{
+    "header_text": "Work Question 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Work Question 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/group-of-contemporary-schoolkids-with-backpacks-going-to-school-in-the-morning-iLzeDliQeNA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

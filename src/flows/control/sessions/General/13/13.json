@@ -1,0 +1,17 @@
+{
+    "header_text": "Dizzy at Movie Night",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friends are coming over to watch a movie, and you hear them knock. As you jump up to answer the door, you feel dizzy and lightheaded, and you get scared you are going to pass out. After sitting down for a second, you haven’t had water all day, and you are probably just... "
+        },
+        {
+            "type": "Entry",
+            "name": "Dizzy at Movie Night_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Excited Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a lot of work to do for your history class. One of your homework assignments is to do research about a historical figure and make a well-prepared, lengthy presentation to your classmates. As you imagine yourself giving your presentation, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Excited Presentation_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

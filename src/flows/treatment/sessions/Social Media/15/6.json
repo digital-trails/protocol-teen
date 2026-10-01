@@ -1,0 +1,16 @@
+{
+    "header_text": "Distant Childhood Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Distant Childhood Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1u-lKWWxXStl0kzvkVl1gkhjp7EF9y62O/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

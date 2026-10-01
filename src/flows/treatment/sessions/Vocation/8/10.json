@@ -1,0 +1,16 @@
+{
+    "header_text": "Future of Learning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Future of Learning"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/girl-student-in-a-lesson-xzf4jHr_-Us"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Application Comparison ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During class, your teacher gives a presentation about how to best prepare for college applications. You listen to her recommendations and find yourself feeling nauseous, comparing your relative lack of progress to the teacher's examples. You remind yourself that not all paths to college look the same, and it's okay to not... "
+        },
+        {
+            "type": "Entry",
+            "name": "Application Comparison _Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Past Mistakes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "On the sideline, you catch yourself replaying past mistakes instead of focusing on what's next. You worry that you’re sabotaging yourself. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Past Mistakes_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 8
+}

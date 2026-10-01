@@ -1,0 +1,17 @@
+{
+    "header_text": "Parental Trust",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your dad looks serious when he asks about your curfew. You think he doesn’t trust you anymore. You realize he's probably just worried and trying to keep you safe, and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Parental Trust_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

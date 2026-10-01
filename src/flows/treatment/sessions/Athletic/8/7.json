@@ -1,0 +1,17 @@
+{
+    "header_text": "Coach Feedback",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It’s a regular afternoon practice with multiple drills running at once. You hear your coach calling out feedback to other players but not to you. His lack of feedback makes you feel confident in your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Coach Feedback_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

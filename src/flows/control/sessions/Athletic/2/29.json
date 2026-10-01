@@ -1,0 +1,16 @@
+{
+    "header_text": "Athletic Futures 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Athletic Futures 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-people-playing-a-game-of-field-hockey-vOI7ePr8Ttc"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Big Changes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Big Changes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/hallway-with-a-door-piano-and-artwork-TlYJlUWYi2M"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 9
+}

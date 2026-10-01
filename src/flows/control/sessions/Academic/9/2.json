@@ -1,0 +1,16 @@
+{
+    "header_text": "Language Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Language Presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Isymza3G0kL57wzhqwxZgxIn5utKL9wO/view"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

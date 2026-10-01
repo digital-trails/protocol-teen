@@ -1,0 +1,16 @@
+{
+    "header_text": "Room Rearrangement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Room Rearrangement"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-cat-laying-on-a-bed-in-front-of-a-window-XY8FAdgfCXM"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 6
+}

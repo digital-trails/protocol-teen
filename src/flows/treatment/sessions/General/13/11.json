@@ -1,0 +1,17 @@
+{
+    "header_text": "Stomach Cramp 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your stomach cramps up just before lunch and feels weirdly heavy. You panic that you ate something bad and are about to puke. You take a deep breath and remember that you are probably just... "
+        },
+        {
+            "type": "Entry",
+            "name": "Stomach Cramp 3_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Melting Ice Caps",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While watching a documentary about melting ice caps, you feel a wave of panic about the planet’s future. You imagine everything getting worse no matter what people do. You consider that that global climate change is complex and solutions are... "
+        },
+        {
+            "type": "Entry",
+            "name": "Melting Ice Caps_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

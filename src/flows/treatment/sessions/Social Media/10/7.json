@@ -1,0 +1,16 @@
+{
+    "header_text": "Candid Photo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Candid Photo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1vTTrAVeiMvUbGy-An6aoeVmsdKGiy2Bw/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

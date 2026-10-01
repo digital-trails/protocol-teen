@@ -1,0 +1,16 @@
+{
+    "header_text": "Science Fair 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Science Fair 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/diverse-group-of-friends-hanging-out-in-the-park-millennials-and-youth-culture-concept-FOkhwaU3in0"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 0
+}

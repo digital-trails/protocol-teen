@@ -1,0 +1,16 @@
+{
+    "header_text": "Sustainability Projects",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sustainability Projects"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/closeup-image-of-a-woman-picking-up-garbage-plastic-bottles-into-a-plastic-bag-for-recycling-concept-DdlmRJ2FdTM"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

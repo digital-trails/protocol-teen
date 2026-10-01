@@ -1,0 +1,25 @@
+{
+    "header_text": "Global Polluction 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are reading about global pollution for a report in your science class. Hearing about how some neighborhoods face more pollution, you suddenly fear your community might carry extra burden. You picture unequal impacts growing worse, and you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Global Polluction 1_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "afraid"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 5
+}

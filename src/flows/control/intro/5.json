@@ -1,0 +1,10 @@
+{
+    "header_text": "Interpretation Scale Sample Question",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You hear a knock on the front door. When you open the door, no one is there. Why? The knock was from a delivery person who left after dropping off a package."
+        }
+    ]
+}

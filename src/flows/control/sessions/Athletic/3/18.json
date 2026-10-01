@@ -1,0 +1,17 @@
+{
+    "header_text": "Volleyball Game 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During gym class, you get tired faster than usual. Looking around, you notice that others seem full of energy. You think your classmates will assume you’re out of shape and you feel a flash of... "
+        },
+        {
+            "type": "Entry",
+            "name": "Volleyball Game 2_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

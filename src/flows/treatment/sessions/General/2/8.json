@@ -1,0 +1,16 @@
+{
+    "header_text": "Checking Appliances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Checking Appliances"
+        },
+        {
+            "type": "Media",
+            "url": "./images/stove.jpg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 3
+}

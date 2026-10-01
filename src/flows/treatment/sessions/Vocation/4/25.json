@@ -1,0 +1,16 @@
+{
+    "header_text": "Missing Hangouts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missing Hangouts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-wearing-white-sweatshirt-using-laptop-computer-sitting-on-sofa-chair-YcJupWm1PhQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

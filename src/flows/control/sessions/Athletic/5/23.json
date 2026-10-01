@@ -1,0 +1,16 @@
+{
+    "header_text": "Teammates Whispering 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Teammates Whispering 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/women-playing-soccer-on-green-field-during-daytime-TsYzva0e2pQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

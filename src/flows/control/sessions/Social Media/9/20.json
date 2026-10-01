@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Comparison",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Comparison"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1qU44VNBfc_6n14n0YYuyFf6kjtsI571y/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

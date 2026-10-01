@@ -1,0 +1,16 @@
+{
+    "header_text": "Mental Health Post 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mental Health Post 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1jFPLXn6lv_fgh5eHXBjUaByBH1iTrB_L/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

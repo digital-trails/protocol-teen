@@ -1,0 +1,17 @@
+{
+    "header_text": "Lost Homework",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your teacher asks you to collect your homework at the beginning of class. Your homework isn't in your bag, where you put it last night. Your homework must be lost. You take a deep breath and decide to tell your teacher your homework is missing. You will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Lost Homework_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

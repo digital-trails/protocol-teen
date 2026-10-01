@@ -1,0 +1,25 @@
+{
+    "header_text": "Stress Spiral ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a conversation about climate stress, you notice your heart pounding and worry that your anxiety is too high. You imagine it spiraling out of control. You remind yourself that noticing stress is actually a helpful signal to yiour... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Stress Spiral _Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "body"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

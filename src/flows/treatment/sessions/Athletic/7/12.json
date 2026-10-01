@@ -1,0 +1,16 @@
+{
+    "header_text": "Important Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Important Game"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/basketball-player-about-to-free-throw-6mRaiW6DDCM"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

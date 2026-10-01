@@ -1,0 +1,17 @@
+{
+    "header_text": "Holiday Phone Use",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your dad spends most of Christmas Eve on his phone. You wonder if he’s bored or unhappy. He might just be answering work messages, and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Holiday Phone Use_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

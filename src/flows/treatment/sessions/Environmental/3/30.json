@@ -1,0 +1,16 @@
+{
+    "header_text": "Online Policy Debate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Online Policy Debate"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-holding-white-smartphone-sitting-on-stair-bTfza0M0hCE"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

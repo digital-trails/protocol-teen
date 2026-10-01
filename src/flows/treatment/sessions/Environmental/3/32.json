@@ -1,0 +1,29 @@
+{
+    "header_text": "Online Policy Debate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After exiting out of social media, you..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Online Policy Debate_Environmental_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Panic about feeling out of control",
+                "Brainstorm ideas for getting involved"
+            ],
+            "column_Count": 1,
+            "correct_value": "Brainstorm ideas for getting involved"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

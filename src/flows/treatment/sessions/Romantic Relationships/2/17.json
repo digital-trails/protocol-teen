@@ -1,0 +1,16 @@
+{
+    "header_text": "Crush Liking Posts 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crush Liking Posts 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1c2c7mWo959a4wMvYouYRZ2dLefiOUihe/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

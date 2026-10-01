@@ -1,0 +1,16 @@
+{
+    "header_text": "Late Essay 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Late Essay 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/desk-with-papers-calculator-and-pens-bZqitd_ae0A"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

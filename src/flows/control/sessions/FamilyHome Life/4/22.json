@@ -1,0 +1,17 @@
+{
+    "header_text": "Room Rearrangement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After taking a few deep breaths, you decide it's also possible he meant to be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Room Rearrangement_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 6
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Sharing Stories",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You focus on the humor in the story, and realize your family is laughing with... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sharing Stories_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Pain During Warm-up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You start a warm-up before your usual workout. You feel a tiny twinge where you used to be injured. Thinking your injury might be coming back, your chest tightens with... "
+        },
+        {
+            "type": "Entry",
+            "name": "Pain During Warm-up_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 8
+}

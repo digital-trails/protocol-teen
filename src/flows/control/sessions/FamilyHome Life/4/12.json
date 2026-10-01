@@ -1,0 +1,17 @@
+{
+    "header_text": "Stuck on Homework",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are stuck on a homework problem and go to ask your sibling. Your sibling snaps “Not now!” when you knock on their door to ask. You assume they’re snapping at you because they are upset with... "
+        },
+        {
+            "type": "Entry",
+            "name": "Stuck on Homework_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

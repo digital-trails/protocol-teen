@@ -1,0 +1,25 @@
+{
+    "header_text": "Ice Skating: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend enjoys ice skating and convinces you to try it out. At the rink you put on the skates and step on the ice. You glide forward slowly at first, then faster. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I cautiously hold on to the balence bar and skate towards my friend.",
+                "I wave at my friend and skate over to them.",
+                "I skate faster, enjoying the feeling of the cool air on my skin.",
+                "I call my friend over and hold on to their arm for balence.",
+                "I get off the ice and go sit down in the locker room."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

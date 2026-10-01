@@ -1,0 +1,17 @@
+{
+    "header_text": "Checking the Locks 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You leave your house and get on the bus to go to school. About 10 minutes into the ride, you wonder whether you remembered to lock the door on your way out, and begin to feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Checking the Locks 2_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 8
+}

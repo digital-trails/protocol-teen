@@ -1,0 +1,16 @@
+{
+    "header_text": "Alone at the Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Alone at the Party"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://pixabay.com/photos/black-and-white-people-night-party-4550471/"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

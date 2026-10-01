@@ -1,0 +1,10 @@
+{
+    "header_text": "Lemon Exercise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Now imagine you are shining a light on the lemon, and you can see the waxy and lumpy texture of the yellow skin."
+        }
+    ]
+}

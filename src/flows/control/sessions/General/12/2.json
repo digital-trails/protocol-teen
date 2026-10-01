@@ -1,0 +1,16 @@
+{
+    "header_text": "Messing Up the Play",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Messing Up the Play"
+        },
+        {
+            "type": "Media",
+            "url": "./images/tyingshoes.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

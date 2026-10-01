@@ -1,0 +1,16 @@
+{
+    "header_text": "Group Slacking",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Group Slacking"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-using-a-cell-phone-YamtliLQg2o"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

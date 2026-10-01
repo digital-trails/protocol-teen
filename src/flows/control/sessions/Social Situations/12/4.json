@@ -1,0 +1,16 @@
+{
+    "header_text": "Political Discussion 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Political Discussion 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/teacher-lecturing-students-in-a-classroom-setting-14jNrPntbgk"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

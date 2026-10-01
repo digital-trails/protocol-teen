@@ -1,0 +1,16 @@
+{
+    "header_text": "New Job Jitters 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Job Jitters 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-arranging-flowers-in-a-flower-shop-iV9G3ipYOI8"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 0
+}

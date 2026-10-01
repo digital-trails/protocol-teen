@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend Driving Test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friend Driving Test"
+        },
+        {
+            "type": "Media",
+            "url": "./images/A.text.newdriver.png"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

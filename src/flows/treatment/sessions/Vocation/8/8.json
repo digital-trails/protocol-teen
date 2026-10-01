@@ -1,0 +1,16 @@
+{
+    "header_text": "Blank Resume 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Blank Resume 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/female-hands-typing-laptop-computer-showing-blank-screen-on-table-gjUdVok3hog"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Forgotten Assignment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting in math class, when you suddenly realize you forgot to complete an assignment due today.  Your stomach plummets, and you imagine your grade dropping beyond repair. You take a deep breath and remind yourself that one homework assignment won't determine your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Forgotten Assignment_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

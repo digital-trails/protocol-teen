@@ -1,0 +1,16 @@
+{
+    "header_text": "Mom Driving",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mom Driving"
+        },
+        {
+            "type": "Media",
+            "url": "./images/carwmom.jpg"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Slower Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "On the track, the sun is setting and the lanes blur slightly as you round another curve. Your time is slower than last week, and the number sticks in your head. You remind yourself numbers don’t tell the whole story, and you feel encouraged by your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Slower Time_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

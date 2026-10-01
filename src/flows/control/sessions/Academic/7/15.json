@@ -1,0 +1,17 @@
+{
+    "header_text": "Formula Freeze 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You freeze during a math test and can't remember a formula you studied last night. Your heart begins to race in your chest, and you wonder if you're too jittery to finish the test. You tell yourself that it's bad to be a little anxious during... "
+        },
+        {
+            "type": "Entry",
+            "name": "Formula Freeze 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

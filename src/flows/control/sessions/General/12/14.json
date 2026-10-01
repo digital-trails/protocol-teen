@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Article",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Article"
+        },
+        {
+            "type": "Media",
+            "url": "./images/girlonphone.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Corrected Form 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Corrected Form 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-and-woman-standing-on-field-nKcx6jbFE-A"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

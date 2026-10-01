@@ -1,0 +1,16 @@
+{
+    "header_text": "Posture Adjustment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Posture Adjustment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/pleasant-photographer-making-a-female-model-laugh-side-view-full-length-photo-aNmKPojgFmQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

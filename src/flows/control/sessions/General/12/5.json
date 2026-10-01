@@ -1,0 +1,17 @@
+{
+    "header_text": "Lifting Weights",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You’re lifting weights after school, surrounded by clanking plates and mirrors reflecting everyone’s movements. You notice someone nearby adding more weight than you and start wondering what that says about your own strength. You consider how weight training is a  process that is different for... "
+        },
+        {
+            "type": "Entry",
+            "name": "Lifting Weights_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

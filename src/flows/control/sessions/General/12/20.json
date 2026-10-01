@@ -1,0 +1,16 @@
+{
+    "header_text": "Melting Ice Caps",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Melting Ice Caps"
+        },
+        {
+            "type": "Media",
+            "url": "./images/scienceclass.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

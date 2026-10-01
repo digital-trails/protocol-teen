@@ -1,0 +1,16 @@
+{
+    "header_text": "Snapmap Exclusion 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Snapmap Exclusion 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/zeoob.com_byzgrwlpo5_photo.png"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 8
+}

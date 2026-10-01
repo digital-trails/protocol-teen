@@ -1,0 +1,17 @@
+{
+    "header_text": "Sudden Rainstorm 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think about the sirens and remind yourself that emergency crews respond to all kinds of calls unrelated to floods, which leaves you feeling..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sudden Rainstorm 2_Environmental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

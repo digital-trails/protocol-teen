@@ -1,0 +1,17 @@
+{
+    "header_text": "Subbed Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At a game, you’re subbed out earlier than you expected. You wonder if the coach wasn’t happy with how you were playing. When you think about it, you admit substitutions are often about... "
+        },
+        {
+            "type": "Entry",
+            "name": "Subbed Out_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

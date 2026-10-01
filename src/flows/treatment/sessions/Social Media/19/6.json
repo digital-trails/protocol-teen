@@ -1,0 +1,16 @@
+{
+    "header_text": "Unopened Message",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unopened Message"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1rr3T5cMLZQiuTvG5-1maEozjUDHeiQjf/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

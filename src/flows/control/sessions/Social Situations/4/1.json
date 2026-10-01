@@ -1,0 +1,16 @@
+{
+    "header_text": "Awkward Joke",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Awkward Joke"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-classroom-full-of-students-raising-their-hands-in-the-air-Hg8fLXkdbmU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Promised Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Promised Help"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-holding-a-piece-of-wood-on-top-of-a-wooden-table-uZqmXxRLHmQ"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 1
+}

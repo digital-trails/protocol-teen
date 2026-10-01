@@ -1,0 +1,17 @@
+{
+    "header_text": "Workout Comparison",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the locker room, teammates talk about an extra workout you didn’t go to. You wonder if that means you’re not doing enough. You remind yourself effort looks different for everyone, and feel satisfied with your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Workout Comparison_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

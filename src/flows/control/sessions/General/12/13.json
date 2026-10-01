@@ -1,0 +1,17 @@
+{
+    "header_text": "Climate Rally Flyer",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You see a flyer for a climate rally taped to a hallway bulletin board at school. You wonder if not going means you don’t care enough or aren’t doing your part. You remind yourself there are many ways to care, and you feel satisfied with your ways of giving... "
+        },
+        {
+            "type": "Entry",
+            "name": "Climate Rally Flyer_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

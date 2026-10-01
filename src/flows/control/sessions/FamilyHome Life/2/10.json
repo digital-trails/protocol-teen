@@ -1,0 +1,16 @@
+{
+    "header_text": "Listening to News",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Listening to News"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/1uRwPbAA8d2JKaKCMOAKMTcHNiy387Rdn"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

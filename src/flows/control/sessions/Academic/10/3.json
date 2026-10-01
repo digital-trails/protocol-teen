@@ -1,0 +1,29 @@
+{
+    "header_text": "Asking for Help 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you need help in the future, you will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Asking for Help 3_Academic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Figure it out on your own",
+                "Feel okay asking others"
+            ],
+            "column_Count": 1,
+            "correct_value": "Feel okay asking others"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Leg Pain",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Leg Pain"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/close-up-of-a-folded-blanket-with-a-floral-pattern-aCtGwU0_S7s"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

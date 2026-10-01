@@ -1,0 +1,17 @@
+{
+    "header_text": "Acceptance Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Today, you will receive an important email. It will tell you whether you got accepted to or rejected from the college you really want to go to. As you think about waiting for the email, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Acceptance Email_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

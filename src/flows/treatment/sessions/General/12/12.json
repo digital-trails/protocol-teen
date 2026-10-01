@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Rally Flyer",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Rally Flyer"
+        },
+        {
+            "type": "Media",
+            "url": "./images/banner.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

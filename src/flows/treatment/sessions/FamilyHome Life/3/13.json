@@ -1,0 +1,16 @@
+{
+    "header_text": "Distant Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Distant Parents"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/11erz7svhT8lBivklKfbquawegoQR5jNN"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

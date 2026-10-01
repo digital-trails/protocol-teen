@@ -1,0 +1,16 @@
+{
+    "header_text": "Test Insecurity 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Test Insecurity 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-w-1ydxmB7hQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

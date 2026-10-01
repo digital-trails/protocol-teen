@@ -1,0 +1,16 @@
+{
+    "header_text": "Impact of Work ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Impact of Work "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-in-front-on-brown-dining-table-and-chairs-inside-building-wVoP_Q2Bg_A"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

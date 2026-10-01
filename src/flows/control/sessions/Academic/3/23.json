@@ -1,0 +1,25 @@
+{
+    "header_text": "Texting in Class 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your teacher catches you texting during class and takes your phone away. You don't like it when people are mad at you, but you know that your teacher will say something to you at the end of class. For the rest of class, you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Texting in Class 2_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "anxious"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Reflection at Gym",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reflection at Gym"
+        },
+        {
+            "type": "Media",
+            "url": "./images/homeworkout.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

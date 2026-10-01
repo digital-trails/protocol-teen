@@ -1,0 +1,17 @@
+{
+    "header_text": "Wrong Locker",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's the first day of school, and you have a new locker assignment. Your locker won't open, and you are getting really frustrated, until another student you know walks over and says that you have the wrong locker. You feel embarrassed, but the other student probably won't even... "
+        },
+        {
+            "type": "Entry",
+            "name": "Wrong Locker_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

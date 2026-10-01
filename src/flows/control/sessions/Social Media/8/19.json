@@ -1,0 +1,16 @@
+{
+    "header_text": "Phone Energy 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Phone Energy 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-holding-black-remote-control-Cg94g0QFHv4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

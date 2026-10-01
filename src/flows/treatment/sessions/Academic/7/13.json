@@ -1,0 +1,17 @@
+{
+    "header_text": "Favorite Book 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think about how much you love the book, and decide your classmates will be impressed by your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Favorite Book 2_Academic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

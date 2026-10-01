@@ -1,0 +1,17 @@
+{
+    "header_text": "Sibling's Computer 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that no matter how your sibling responds, they will still have to let you do your homework, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sibling's Computer 2_Academic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Sibling's Computer 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sibling's Computer 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/girl-in-white-shirt-sitting-on-brown-wooden-chair-Wf766oWDbhU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

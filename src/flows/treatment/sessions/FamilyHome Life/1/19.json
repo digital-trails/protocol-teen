@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Movie Night",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Movie Night"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-little-girl-sitting-on-a-couch-watching-tv-1A8U3NXzvIE"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

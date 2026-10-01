@@ -1,0 +1,16 @@
+{
+    "header_text": "Finishing Last 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finishing Last 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-in-swimming-pool-during-daytime-_8B2XyVSJIQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

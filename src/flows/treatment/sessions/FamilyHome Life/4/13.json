@@ -1,0 +1,17 @@
+{
+    "header_text": "Stuck on Homework",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you think about checking in later, you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Stuck on Homework_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

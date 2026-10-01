@@ -1,0 +1,16 @@
+{
+    "header_text": "Guidance Counselor 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Guidance Counselor 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-with-curly-hair-writing-at-desk-with-laptop-ypEXEEt6mUc"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

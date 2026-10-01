@@ -1,0 +1,16 @@
+{
+    "header_text": "Checking Feed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Checking Feed"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-holding-white-iphone-5-c-xE5SAT0WeTQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

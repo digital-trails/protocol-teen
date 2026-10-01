@@ -1,0 +1,17 @@
+{
+    "header_text": "Blank Document 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sitting at home, you open a blank document for a big project. You think about the upcoming due date and feel nauseous, convinced you’ll never finish in time. When you think about starting the essay, you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Blank Document 3_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

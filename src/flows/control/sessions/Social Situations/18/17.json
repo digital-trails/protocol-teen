@@ -1,0 +1,16 @@
+{
+    "header_text": "Holding Hands",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Holding Hands"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://pixabay.com/photos/school-lockers-hallway-high-school-417612/"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Earning Tips 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Earning Tips 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/focus-photography-of-person-counting-dollar-banknotes--8a5eJ1-mmQ"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

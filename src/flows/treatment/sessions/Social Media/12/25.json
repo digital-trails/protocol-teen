@@ -1,0 +1,16 @@
+{
+    "header_text": "Dorm Tour",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dorm Tour"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1HjUTgOTx0y9zS0kXPDi8qXpA2u04zzXn/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

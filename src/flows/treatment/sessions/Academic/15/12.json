@@ -1,0 +1,16 @@
+{
+    "header_text": "Dream Colleges 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dream Colleges 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/young-women-talking-in-a-casual-setting-q19hWugG0MU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

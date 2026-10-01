@@ -1,0 +1,16 @@
+{
+    "header_text": "Audition Error",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Audition Error"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/red-theater-curtain-WW1jsInXgwM"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

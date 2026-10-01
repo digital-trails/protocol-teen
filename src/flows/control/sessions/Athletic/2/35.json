@@ -1,0 +1,17 @@
+{
+    "header_text": "Pain During Warm-up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a deep breath, reminding yourself that you can trust your..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pain During Warm-up_Athletic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 8
+}

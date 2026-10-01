@@ -1,0 +1,17 @@
+{
+    "header_text": "Spaced Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting in your History class and space out for a minute. Your teacher calls on you to answer a question, and you didn't hear it. You ask her to repeat her question and know that she will forgive you for being... \n"
+        },
+        {
+            "type": "Entry",
+            "name": "Spaced Out_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

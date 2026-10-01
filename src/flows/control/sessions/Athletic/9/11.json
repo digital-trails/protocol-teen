@@ -1,0 +1,16 @@
+{
+    "header_text": "Subbed Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Subbed Out"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/women-playing-soccer-on-green-field-during-daytime-TsYzva0e2pQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Snap Streak",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Snap Streak"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-yellow-and-blue-iphone-sitting-on-top-of-a-wooden-table-keIEK2B8qVI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

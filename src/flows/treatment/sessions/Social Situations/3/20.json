@@ -1,0 +1,16 @@
+{
+    "header_text": "Asking a Question",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Asking a Question"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-in-black-long-sleeve-shirt-raising-right-hand-rn21q4rmSE4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

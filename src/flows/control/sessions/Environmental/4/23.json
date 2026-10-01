@@ -1,0 +1,25 @@
+{
+    "header_text": "Climate Protest",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A romantic interest texts you about a climate protest they’re attending, and you immediately worry they’ll think you don’t care enough. You imagine them judging you for not doing “big” actions. You remind yourself that people value... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Climate Protest_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "honesty"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

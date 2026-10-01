@@ -1,0 +1,16 @@
+{
+    "header_text": "Heat Advisory 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Heat Advisory 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/senior-couple-on-the-road-having-problem-with-a-car-they-are-calling-assistance-QOVNVedVxM8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Student",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Student"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/people-sitting-on-chair-inside-room-TAy7nXHoH1E"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

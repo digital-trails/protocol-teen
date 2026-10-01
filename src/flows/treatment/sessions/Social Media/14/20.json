@@ -1,0 +1,16 @@
+{
+    "header_text": "Deleted Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deleted Post"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-is-using-a-mobile-phone-2f_zK0ruzJE"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Smiling witih Braces",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Smiling witih Braces"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/teenage-girl-with-the-braces-on-her-teeth-is-having-a-treatment-at-dentist-Duv20wUzn1g"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Homework Procrastination",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a lot of homework due tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your homework when you get home from school, you feel able to complete it on... \n"
+        },
+        {
+            "type": "Entry",
+            "name": "Homework Procrastination_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

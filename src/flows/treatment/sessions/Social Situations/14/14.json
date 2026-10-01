@@ -1,0 +1,16 @@
+{
+    "header_text": "Submitted Without You 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Submitted Without You 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-using-macbook-pro-on-white-table-ejhjSZKTeeg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

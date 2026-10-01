@@ -1,0 +1,17 @@
+{
+    "header_text": "AI Images",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You see an AI-generated image that looks disturbingly real. You imagine misinformation becoming impossible to track. The thought settles in your chest, leaving you feeling..."
+        },
+        {
+            "type": "Entry",
+            "name": "AI Images_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 0
+}

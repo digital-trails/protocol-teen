@@ -1,0 +1,17 @@
+{
+    "header_text": "Being Polite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your parent reminds you twice about being polite when friends come over. You feel a flash of anxiety, wondering if they they expect you to mess up. You decide your parent reminded you twice because they... "
+        },
+        {
+            "type": "Entry",
+            "name": "Being Polite_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

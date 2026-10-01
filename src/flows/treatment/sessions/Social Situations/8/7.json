@@ -1,0 +1,16 @@
+{
+    "header_text": "Gym Strength Comparison",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gym Strength Comparison"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-close-up-of-a-sign-isWezekA8J8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

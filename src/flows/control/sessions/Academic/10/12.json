@@ -1,0 +1,29 @@
+{
+    "header_text": "ACT Scores 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Standarized test scores..."
+        },
+        {
+            "type": "Buttons",
+            "name": "ACT Scores 2_Academic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Are an accuracte signal of intellegence",
+                "Are an imperfect measure of one-time performance"
+            ],
+            "column_Count": 1,
+            "correct_value": "Are an imperfect measure of one-time performance"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

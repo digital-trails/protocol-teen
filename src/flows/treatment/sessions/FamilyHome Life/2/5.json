@@ -1,0 +1,17 @@
+{
+    "header_text": "Anticipating Comments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You’re getting ready to go to a big family gathering you haven’t attended in a while. You remember how relatives sometimes comment on your appearance or grades. You worry it will happen again, and the thought makes your stomach..."
+        },
+        {
+            "type": "Entry",
+            "name": "Anticipating Comments_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 1
+}

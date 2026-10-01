@@ -1,0 +1,16 @@
+{
+    "header_text": "Hiking with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hiking with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/full-length-rear-view-of-young-people-in-warm-clothing-moving-up-while-hiking-together-in-the-woods-pF5YFjgcwls"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

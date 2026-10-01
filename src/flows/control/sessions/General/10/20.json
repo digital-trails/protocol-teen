@@ -1,0 +1,16 @@
+{
+    "header_text": "Decorating with Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decorating with Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/party1.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

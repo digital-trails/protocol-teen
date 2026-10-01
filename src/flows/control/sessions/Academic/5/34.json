@@ -1,0 +1,17 @@
+{
+    "header_text": "Dream Colleges 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You hear your friends bragging about their dream colleges. You worry your choices seem “less impressive” and feel your stomach sink. You think your friends probably judge you for your choice of... "
+        },
+        {
+            "type": "Entry",
+            "name": "Dream Colleges 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 9
+}

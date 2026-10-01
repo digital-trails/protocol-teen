@@ -1,0 +1,16 @@
+{
+    "header_text": "Dad Leaving Early",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dad Leaving Early"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-red-car-parked-on-the-side-of-the-road-yCEWhTR_3_c"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 8
+}

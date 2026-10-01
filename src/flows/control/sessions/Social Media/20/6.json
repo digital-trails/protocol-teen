@@ -1,0 +1,16 @@
+{
+    "header_text": "Slow Likes 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Slow Likes 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-close-up-of-a-person-holding-a-cell-phone-7TnTV3MzcQk"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

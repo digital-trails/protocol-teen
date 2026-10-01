@@ -1,0 +1,16 @@
+{
+    "header_text": "Workout Comparison",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Workout Comparison"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-room-filled-with-lots-of-mail-boxes-NktrKWXnkUs"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

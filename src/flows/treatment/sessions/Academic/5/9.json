@@ -1,0 +1,29 @@
+{
+    "header_text": "Internet Failure 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Because of the blip in your internet access, you will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Internet Failure 2_Academic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Get back on track after a minute",
+                "Fail the test"
+            ],
+            "column_Count": 1,
+            "correct_value": "Get back on track after a minute"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 1
+}

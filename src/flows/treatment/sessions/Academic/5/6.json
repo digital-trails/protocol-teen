@@ -1,0 +1,16 @@
+{
+    "header_text": "Internet Failure 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Internet Failure 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/an-open-laptop-computer-sitting-on-top-of-a-table-PrVNgIj8DhQ"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Amusement Park 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Amusement Park 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-merry-go-round-ride-with-lots-of-swings-d6PI2oueq7E"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

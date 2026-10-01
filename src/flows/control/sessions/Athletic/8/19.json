@@ -1,0 +1,17 @@
+{
+    "header_text": "Timed Sprint",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a timed sprint at practice, you feel your legs tighten halfway through the run. You wonder if that means you’re about to get injured. You remind yourself your body often feels strange under pressure, and you shake off the... "
+        },
+        {
+            "type": "Entry",
+            "name": "Timed Sprint_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

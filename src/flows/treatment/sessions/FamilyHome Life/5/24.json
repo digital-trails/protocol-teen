@@ -1,0 +1,16 @@
+{
+    "header_text": "Decorating with Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decorating with Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-table-topped-with-a-yellow-table-cloth-covered-table-Xp9FmPu-lPQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

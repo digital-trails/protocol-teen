@@ -1,0 +1,16 @@
+{
+    "header_text": "Parent-Teacher Meeting 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parent-Teacher Meeting 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-long-hallway-lined-with-blue-lockers-in-a-building-yRqSdeq9_gg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "No Relationship Yet",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "No Relationship Yet"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1bB1nXIMZX6KcFunshJjenZ48SmGpaGRJ/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

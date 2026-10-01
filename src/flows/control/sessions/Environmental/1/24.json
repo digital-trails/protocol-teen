@@ -1,0 +1,17 @@
+{
+    "header_text": "Pollution Burdens 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hearing someone talk about unfair pollution burdens, you suddenly fear your community might shoulder more risk than others. You picture inequality worsening over time. You remind yourself that awareness fuels advocacy, and when you think about getting involved you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Pollution Burdens 1_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 8
+}

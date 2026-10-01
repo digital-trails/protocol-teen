@@ -1,0 +1,16 @@
+{
+    "header_text": "Academic Insecurity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Academic Insecurity"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-man-sitting-at-a-desk-with-a-notebook-in-front-of-him-SjCIQldQTsE"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Recipe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Recipe"
+        },
+        {
+            "type": "Media",
+            "url": "./images/dinner1.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

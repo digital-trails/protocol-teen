@@ -1,0 +1,17 @@
+{
+    "header_text": "Classroom Pace",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You watch classmates answer questions instantly. You worry you'll never catch up and feel dread settle in your chest. You remind yourself that everyone learns differently and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Classroom Pace_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

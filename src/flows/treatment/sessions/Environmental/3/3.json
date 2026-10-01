@@ -1,0 +1,17 @@
+{
+    "header_text": "Facebook Argument",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are scrolling through Facebook when you see two adults you don't know arguing about climate change. You feel a rush of anger at adults who seem to ignore the problem. You imagine them ruining the world you’ll inherit, and feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Facebook Argument_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

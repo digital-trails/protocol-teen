@@ -1,0 +1,16 @@
+{
+    "header_text": "Busy Traffic",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Busy Traffic"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-driving-a-car-with-their-hand-on-the-steering-wheel-9QnzAzsssLI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

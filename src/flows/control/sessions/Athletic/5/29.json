@@ -1,0 +1,16 @@
+{
+    "header_text": "On A Jog",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "On A Jog"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-street-lined-with-houses-and-trees-on-a-cloudy-day-qtk3riCYZbU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

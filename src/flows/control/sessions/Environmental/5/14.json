@@ -1,0 +1,16 @@
+{
+    "header_text": "Smoky Day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Smoky Day"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-holding-her-throat-in-pain-I42Vb-7r1cU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

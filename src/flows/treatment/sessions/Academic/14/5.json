@@ -1,0 +1,17 @@
+{
+    "header_text": "Difficult Reading 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are doing a complicated reading for your History class, and you have to read a chapter twice to understand what's going on. You worry that you just aren't smart enough to be in the class. You take a break from the chapter and remind yourself that confusion means you are still learning the... \n"
+        },
+        {
+            "type": "Entry",
+            "name": "Difficult Reading 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

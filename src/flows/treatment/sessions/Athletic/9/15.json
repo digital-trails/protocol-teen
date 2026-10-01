@@ -1,0 +1,16 @@
+{
+    "header_text": "Aching Legs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Aching Legs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-tying-a-pair-of-tennis-shoes-QeypMGIi8KU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

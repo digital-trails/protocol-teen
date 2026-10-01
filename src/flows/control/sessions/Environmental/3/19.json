@@ -1,0 +1,17 @@
+{
+    "header_text": "Volunteer River Clean Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that collective action is built from many small steps, and your efforts seem... "
+        },
+        {
+            "type": "Entry",
+            "name": "Volunteer River Clean Up_Environmental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

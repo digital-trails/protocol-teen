@@ -1,0 +1,17 @@
+{
+    "header_text": "Blank Document 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a deep breath, and think about breaking down the project into steps until it feels... "
+        },
+        {
+            "type": "Entry",
+            "name": "Blank Document 2_Academic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

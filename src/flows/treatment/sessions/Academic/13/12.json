@@ -1,0 +1,17 @@
+{
+    "header_text": "Embarrassing Typo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just turned in an important paper. As you're checking your submission, you notice you made an embarrassing typo in the first sentence. You recognize that this was an honest mistake and feel optimistic that your teacher will...  \n"
+        },
+        {
+            "type": "Entry",
+            "name": "Embarrassing Typo_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

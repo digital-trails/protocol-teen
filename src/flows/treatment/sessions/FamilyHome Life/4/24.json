@@ -1,0 +1,17 @@
+{
+    "header_text": "Tackling To Do List",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At home, there are a lot of chores that your parents said you have to finish today. You have a big project to work on that will take a lot of time. Balancing your home life and school life is... "
+        },
+        {
+            "type": "Entry",
+            "name": "Tackling To Do List_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

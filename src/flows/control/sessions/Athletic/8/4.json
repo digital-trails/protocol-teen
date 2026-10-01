@@ -1,0 +1,16 @@
+{
+    "header_text": "Shaky Muscles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Shaky Muscles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-people-doing-yoga-in-a-park-4PX4J1Y6m7g"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

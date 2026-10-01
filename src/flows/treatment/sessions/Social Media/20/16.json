@@ -1,0 +1,16 @@
+{
+    "header_text": "Confident Photo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Confident Photo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1GZXCdc9IGKe_iVC8MNSzqMakpWb8CwKv/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

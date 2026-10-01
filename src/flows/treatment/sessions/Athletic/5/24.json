@@ -1,0 +1,25 @@
+{
+    "header_text": "Teammates Whispering 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You hear two teammates whispering on the sideline of your soccer game. You suddenly feel sure they’re talking about your performance, and you begin to feel self-conciouss. You then remember that they are close friends outside of your soccer team, and they are probably talking about something... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Teammates Whispering 2_Athletic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "else"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

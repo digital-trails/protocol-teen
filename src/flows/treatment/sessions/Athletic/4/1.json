@@ -1,0 +1,16 @@
+{
+    "header_text": "Tough Loss",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tough Loss"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/cars-parked-in-parking-lot-CrU3lUW2jRk"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,29 @@
+{
+    "header_text": "Promised Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you think about your presentation, you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Promised Help_FamilyHome Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Confident",
+                "Anxious"
+            ],
+            "column_Count": 1,
+            "correct_value": "Confident"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 1
+}

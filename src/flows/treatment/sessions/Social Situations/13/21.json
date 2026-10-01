@@ -1,0 +1,16 @@
+{
+    "header_text": "Snapchat Add",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Snapchat Add"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1mHXfXw-iahdLomYjWNPrlY48AeYpFlIm/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

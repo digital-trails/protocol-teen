@@ -1,0 +1,17 @@
+{
+    "header_text": "Favorite Book 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your teacher is talking about your favorite book in class, and she asks if anyone has read it. In front of everyone, you quickly raise your hand, and the class turns to you. You realize that you feel uncomfortable talking about the..."
+        },
+        {
+            "type": "Entry",
+            "name": "Favorite Book 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

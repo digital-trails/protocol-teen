@@ -1,0 +1,16 @@
+{
+    "header_text": "Picture Day Haircut",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Picture Day Haircut"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/young-man-concentrated-on-making-a-photo-at-workplace-side-view-photo-occupation-uft_PTTKwmo"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

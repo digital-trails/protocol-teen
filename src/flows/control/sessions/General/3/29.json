@@ -1,0 +1,16 @@
+{
+    "header_text": "Fake News 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fake News 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/A.headlines1"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

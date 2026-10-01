@@ -1,0 +1,17 @@
+{
+    "header_text": "Tryout Anxiety",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tryouts are crowded and everyone is waiting their turn on the sideline. Your heart is racing as you watch dozens of people perform confidently. When you think about going up to take your turn, you feel confident in your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Tryout Anxiety_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Volunteer River Clean Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your family participate in a volunteer river cleanup event. Looking at the trash you collected, you feel proud for a moment but then worry your efforts don’t matter. You imagine your small actions being swallowed by huge global issues and feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Volunteer River Clean Up_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Forgetting Instructions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Forgetting Instructions"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/empty-brown-wooden-restaurant-table-with-chairs-1iTKoFJvJ6E"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

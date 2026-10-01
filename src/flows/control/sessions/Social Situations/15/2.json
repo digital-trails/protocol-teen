@@ -1,0 +1,16 @@
+{
+    "header_text": "Telling a Personal Story",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Telling a Personal Story"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-wearing-green-trucker-cap-xNX4TnBLuv8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

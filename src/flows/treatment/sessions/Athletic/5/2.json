@@ -1,0 +1,16 @@
+{
+    "header_text": "Ankle Pain",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ankle Pain"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/pair-of-blue-and-white-adidas-running-shoes-XiZ7pRvCzro"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

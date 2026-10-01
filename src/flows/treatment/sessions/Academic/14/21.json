@@ -1,0 +1,17 @@
+{
+    "header_text": "Test Insecurity 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a big test, you sit in class with your mind racing while you hear the scratch of your classmates' pencils around you. You worry you're just not smart enough and feel a heavy drop in your chest as your mind stalls. You remind yourself that everyone grasps things at different rates, and effort matters more in the long... "
+        },
+        {
+            "type": "Entry",
+            "name": "Test Insecurity 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

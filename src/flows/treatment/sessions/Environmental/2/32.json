@@ -1,0 +1,29 @@
+{
+    "header_text": "Climate Change News",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you think about the your ability to control the current situation, you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Climate Change News_Environmental_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Anxious about what is not in your control",
+                "Accepting of what is in your control"
+            ],
+            "column_Count": 1,
+            "correct_value": "Accepting of what is in your control"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

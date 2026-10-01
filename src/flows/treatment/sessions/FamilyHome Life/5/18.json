@@ -1,0 +1,16 @@
+{
+    "header_text": "Being Polite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Being Polite"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/photo-of-white-painted-room-MfJ9g64-WxQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

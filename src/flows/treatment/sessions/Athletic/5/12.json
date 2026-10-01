@@ -1,0 +1,25 @@
+{
+    "header_text": "Slow Mile Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your whole class has to run the mile during gym class. As you are running outside in the crisp Fall air, you can't help but notice how much slower you are than the other people in your class. You think that the other people in the class are probably focused on their own performance and don't... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Slow Mile Run_Athletic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "notice"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

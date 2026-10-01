@@ -1,0 +1,17 @@
+{
+    "header_text": "Tackling To Do List",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You look for a good artist to listen to while you do your chores. As you start to tackle your to-do list, you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Tackling To Do List_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

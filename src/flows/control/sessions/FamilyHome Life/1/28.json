@@ -1,0 +1,16 @@
+{
+    "header_text": "Mail Delivery 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mail Delivery 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/1uRwPbAA8d2JKaKCMOAKMTcHNiy387Rdn"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Asking for Help 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your teacher hands out an in-class assignment and lets you know it's graded for completion, not accuracy. As you read through the sheet you feel your cheeks heat up - you are confused and want to ask for help. When you think about raising your hand in the silent classroom, you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Asking for Help 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

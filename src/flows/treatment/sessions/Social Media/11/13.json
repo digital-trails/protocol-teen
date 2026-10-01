@@ -1,0 +1,25 @@
+{
+    "header_text": "Missing Out: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You had a really long day at school and are feeling tired, so you decide to stay home from the movie night at your friend's house. When you open social media, you see everyone posting about it on Snapchat.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to ask my parents to take me there, but remind myself that I made my choice for a reason.",
+                "I put my phone down and actually rest the way I planned to.",
+                "I swipe up on a friend's story and make plans for next time.",
+                "I feel the urge to open Snapchat again every few minutes, but set my phone across the room instead.",
+                "I stay up late watching every story until I feel too anxious to sleep."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

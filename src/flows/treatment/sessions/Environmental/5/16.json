@@ -1,0 +1,29 @@
+{
+    "header_text": "Smoky Day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Short-term exposures to smoke are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Smoky Day_Environmental_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Not usually life threatening",
+                "Life threatening"
+            ],
+            "column_Count": 1,
+            "correct_value": "Not usually life threatening"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Reflection at Gym",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the gym, you catch your reflection while struggling through the last reps. You wince at your red, sweaty face and wonder if others are noticing how hard it looks for you. You remind yourself that exertion is a sign of... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Reflection at Gym_Athletic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "effort"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

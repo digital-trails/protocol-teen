@@ -1,0 +1,17 @@
+{
+    "header_text": "Aching Legs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After practice, sweat cools on your skin as you sit on the bench unlacing your shoes. Your legs ache in a deep, unfamiliar way, and you wonder how tomorrow will feel. You consider that recovery isn’t always..."
+        },
+        {
+            "type": "Entry",
+            "name": "Aching Legs_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

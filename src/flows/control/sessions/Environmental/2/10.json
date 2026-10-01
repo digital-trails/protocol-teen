@@ -1,0 +1,25 @@
+{
+    "header_text": "Late Night Conversation 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a late-night conversation, a friend casually wonders if it’s even responsible to have kids someday. You suddenly feel a heavy dread about future generations living in a damaged world. You think about wanting to have kids in the future, and feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Late Night Conversation 2_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "guilty"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 2
+}

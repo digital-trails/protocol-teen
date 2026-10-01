@@ -1,0 +1,16 @@
+{
+    "header_text": "First Day 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "First Day 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/staircase-leading-to-an-open-doorway-with-chairs-and-chairs-jRjmp_aq78g"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 0
+}

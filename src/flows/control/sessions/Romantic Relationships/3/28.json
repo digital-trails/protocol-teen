@@ -1,0 +1,16 @@
+{
+    "header_text": "Focusing on Finals ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Focusing on Finals "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-and-woman-sitting-while-using-macbook-pro-iO2d-KYp5JU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

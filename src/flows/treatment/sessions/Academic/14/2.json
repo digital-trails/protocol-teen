@@ -1,0 +1,16 @@
+{
+    "header_text": "Forgotten Assignment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Forgotten Assignment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/teacher-asking-a-question-to-students-in-a-classroom-BBetMyb5ePA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

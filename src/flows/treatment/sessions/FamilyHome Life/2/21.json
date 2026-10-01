@@ -1,0 +1,29 @@
+{
+    "header_text": "Sibling in Room",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think your sibling is probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Sibling in Room_FamilyHome Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Never going to be the same",
+                "Going through a normal phase"
+            ],
+            "column_Count": 1,
+            "correct_value": "Going through a normal phase"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 6
+}

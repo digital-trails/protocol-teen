@@ -1,0 +1,17 @@
+{
+    "header_text": "Stormy Weekend 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remember most storms pass quietly without causing major issues, and the liklehood of danger is... "
+        },
+        {
+            "type": "Entry",
+            "name": "Stormy Weekend 2_Environmental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 9
+}

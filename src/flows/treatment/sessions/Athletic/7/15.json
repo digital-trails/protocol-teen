@@ -1,0 +1,17 @@
+{
+    "header_text": "Making Varsity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You finally make varsity but feel awkward around older players. You worry you don’t belong yet. You remind yourself that with time, you will become..."
+        },
+        {
+            "type": "Entry",
+            "name": "Making Varsity_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

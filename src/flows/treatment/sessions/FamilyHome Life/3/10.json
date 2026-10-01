@@ -1,0 +1,25 @@
+{
+    "header_text": "Small Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family shares one small car that has a big dent in the side. Today your parent has to drop you off at school because you are running a little late. When you think about your classmates seeing your parent's car, you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Small Car_FamilyHome Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 2
+}

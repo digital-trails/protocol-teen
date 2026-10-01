@@ -1,0 +1,16 @@
+{
+    "header_text": "Return to Venue",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Return to Venue"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-soccer-field-with-empty-bleachers-on-a-cloudy-day-hfNsHnY5vjM"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

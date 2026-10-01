@@ -1,0 +1,16 @@
+{
+    "header_text": "Missing the Catch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missing the Catch"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://pixabay.com/photos/baseball-sports-park-field-mound-2627837/"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

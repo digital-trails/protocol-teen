@@ -1,0 +1,29 @@
+{
+    "header_text": "Stress Spiral ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Paying attention to your body's stress response can...."
+        },
+        {
+            "type": "Buttons",
+            "name": "Stress Spiral _Environmental_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Help you understand and control it",
+                "Make you even more stressed"
+            ],
+            "column_Count": 1,
+            "correct_value": "Help you understand and control it"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

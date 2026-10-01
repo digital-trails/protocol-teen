@@ -1,0 +1,16 @@
+{
+    "header_text": "Misleading Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Misleading Post"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-man-sitting-down-looking-at-a-cell-phone-wOOVrmXeCXo"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 3
+}

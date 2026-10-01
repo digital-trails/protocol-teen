@@ -1,0 +1,25 @@
+{
+    "header_text": "Online Policy Debate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When a policy debate comes up online, you feel anxious that leaders won’t act fast enough. You picture being left behind by decisions out of your control. You think about the advocacy actions under your control, and you feel empowered to... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Online Policy Debate_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "act"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

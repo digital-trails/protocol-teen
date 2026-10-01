@@ -1,0 +1,16 @@
+{
+    "header_text": "Sharing Stories",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sharing Stories"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/1uRwPbAA8d2JKaKCMOAKMTcHNiy387Rdn"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

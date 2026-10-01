@@ -1,0 +1,16 @@
+{
+    "header_text": "Vulnerable Message",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vulnerable Message"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1tsjmq-N8c0yR31ocCGM6mELwiqtTu1y-/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

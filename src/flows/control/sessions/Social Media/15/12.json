@@ -1,0 +1,16 @@
+{
+    "header_text": "Pending Follow Request",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pending Follow Request"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-holding-phone-_XR5rkprHQU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

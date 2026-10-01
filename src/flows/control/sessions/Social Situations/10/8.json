@@ -1,0 +1,16 @@
+{
+    "header_text": "New Hair",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Hair"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/white-ceramic-sink-with-faucet-QkCknWPfGxE"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

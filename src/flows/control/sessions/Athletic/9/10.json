@@ -1,0 +1,17 @@
+{
+    "header_text": "Finishing Last 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At swim practice, you’re the last one to finish the set. You worry everyone thinks you're too slow to belong on the team.\nYou take a moment to remind yourself that even if you aren't the fastest, you made it onto the swim team for a good... "
+        },
+        {
+            "type": "Entry",
+            "name": "Finishing Last 3_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

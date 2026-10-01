@@ -1,0 +1,25 @@
+{
+    "header_text": "Language Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are giving an important presentation in your language class. You feel your face heat up, and your hands shake, and you worry that all of your classmates are judging you. As you stand up and walk to the front of the classroom, you notice your classmates looking distracted, and realize they probably don't... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Language Presentation_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "notice"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

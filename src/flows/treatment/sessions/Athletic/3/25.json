@@ -1,0 +1,17 @@
+{
+    "header_text": "Mile Run 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You rememeber that no matter what happens, the run will eventually... "
+        },
+        {
+            "type": "Entry",
+            "name": "Mile Run 2_Athletic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

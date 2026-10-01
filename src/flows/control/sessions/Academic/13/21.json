@@ -1,0 +1,16 @@
+{
+    "header_text": "Grade Drop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Grade Drop"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-typing-on-a-laptop-Ux6_jnk2cO8"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Return to Venue",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You get news that you will be competing at the same venue where you lost a big competition last season. For a second, your stomach drops, and you worry history will repeat itself. Thinking about competing at that venue again makes you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Return to Venue_Athletic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "unsettled"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 5
+}

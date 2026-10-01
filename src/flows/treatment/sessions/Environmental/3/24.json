@@ -1,0 +1,17 @@
+{
+    "header_text": "Sudden Rainstorm 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Out of nowhere, your neighborhood is drenched in a sudden summer downpour. Hearing sirens during the heavy rain, you tense up imagining sudden floods sweeping through your street. Your chest tightens, and when you picture worst-case damage it still feels... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sudden Rainstorm 2_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

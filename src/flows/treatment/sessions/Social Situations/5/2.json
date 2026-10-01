@@ -1,0 +1,16 @@
+{
+    "header_text": "Clothing Comparison",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Clothing Comparison"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-wearing-black-leather-zip-up-jacket-43c9i58_P0o"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Practice Scores 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Practice Scores 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/people-friendship-togetherness-pizza-activity-youth-culture-concept-3OpmXXf67is"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

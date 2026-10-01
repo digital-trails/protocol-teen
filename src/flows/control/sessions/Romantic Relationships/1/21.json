@@ -1,0 +1,16 @@
+{
+    "header_text": "Words of Affirmation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Words of Affirmation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-pair-of-people-holding-hands-Jz_VL5AqNZ0"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 7
+}

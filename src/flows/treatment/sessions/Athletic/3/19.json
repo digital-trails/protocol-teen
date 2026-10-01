@@ -1,0 +1,17 @@
+{
+    "header_text": "Volleyball Game 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You consider that strength and fitness can vary based on a number of factors, and you feel forgiving towards your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Volleyball Game 2_Athletic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

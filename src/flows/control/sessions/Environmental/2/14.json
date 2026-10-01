@@ -1,0 +1,25 @@
+{
+    "header_text": "Thunder Storms",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you lie in bed one night, you hear the rumble of thunder as a storm rolls in overhead. You hear cracking tree branches during strong winds and picture them crashing through your roof. Your heart jumps as you assume the storm is turning... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Thunder Storms_Environmental_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "dangerous"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

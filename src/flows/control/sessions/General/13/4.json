@@ -1,0 +1,16 @@
+{
+    "header_text": "Frustrated Parent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Frustrated Parent"
+        },
+        {
+            "type": "Media",
+            "url": "./images/wristwatch.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

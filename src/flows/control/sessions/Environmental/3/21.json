@@ -1,0 +1,17 @@
+{
+    "header_text": "Springtime Hike 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your family are on a springtime hike. Walking past a patch of dead wildflowers, you suddenly imagine whole ecosystems collapsing. You picture birds and insects disappearing forever, and feel your stomach drop in... "
+        },
+        {
+            "type": "Entry",
+            "name": "Springtime Hike 3_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 6
+}

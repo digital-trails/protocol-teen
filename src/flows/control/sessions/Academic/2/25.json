@@ -1,0 +1,17 @@
+{
+    "header_text": "Global Polluction 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are reading about global pollution for a report in your science class. Hearing about how some neighborhoods face more pollution, you suddenly fear your community might carry extra burden. You picture unequal impacts growing worse, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Global Polluction 1_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 9
+}

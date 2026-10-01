@@ -1,0 +1,16 @@
+{
+    "header_text": "Disagreement with Crush",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Disagreement with Crush"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ZufpIXWlL-gfVGIuABejEhcsy86ladUo/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Forgot to Pack 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your teammates are traveling to a big competition. As you unpack your travel bag, you realize you forgot an important item. You think about borrowing it from a teammate, and feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Forgot to Pack 3_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

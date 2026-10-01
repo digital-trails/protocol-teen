@@ -1,0 +1,17 @@
+{
+    "header_text": "New Recipe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You get an idea for a new recipe that involves ingredients you have never used before. You make it for your family, and you don't get it totally perfect. As everyone starts to eat, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "New Recipe_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

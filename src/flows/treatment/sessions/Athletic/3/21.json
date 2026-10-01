@@ -1,0 +1,17 @@
+{
+    "header_text": "Last Picked 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In PE class, two students are picking teams for a game. You stand and wait as your classmates are chosen one by one, and you end up being the last person picked. You feel your cheeks burn with... \n"
+        },
+        {
+            "type": "Entry",
+            "name": "Last Picked 2_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 6
+}

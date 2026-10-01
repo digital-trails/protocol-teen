@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Protest",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Protest"
+        },
+        {
+            "type": "Media",
+            "url": "./images/A.text.protest.png"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

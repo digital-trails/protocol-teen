@@ -1,0 +1,17 @@
+{
+    "header_text": "Making Dinner 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You also know homes all smell different when something is cooking, and when you think about answering your friend, you feel eager to share your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Making Dinner 2_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

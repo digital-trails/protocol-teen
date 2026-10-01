@@ -1,0 +1,16 @@
+{
+    "header_text": "Nerves Before Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nerves Before Game"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/unrecognizable-fit-african-sportswoman-tying-shoelaces-on-sneakers-close-up-AF8vED9zvCg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

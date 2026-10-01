@@ -1,0 +1,16 @@
+{
+    "header_text": "Increased Appetite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Increased Appetite"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/cooked-food-in-white-ceramic-plate-jVBpQ14LR_o"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

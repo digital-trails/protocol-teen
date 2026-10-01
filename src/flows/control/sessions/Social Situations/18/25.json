@@ -1,0 +1,16 @@
+{
+    "header_text": "Laughing at Locker 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Laughing at Locker 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-close-up-of-a-door-handle-on-a-blue-door-heK5p3ggeEc"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 6
+}

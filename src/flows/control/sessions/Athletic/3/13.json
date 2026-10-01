@@ -1,0 +1,17 @@
+{
+    "header_text": "Winded After Practice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that everyone has off days, and you feel centered continuing your..."
+        },
+        {
+            "type": "Entry",
+            "name": "Winded After Practice_Athletic_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

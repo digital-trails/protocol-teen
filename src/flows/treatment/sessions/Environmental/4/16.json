@@ -1,0 +1,16 @@
+{
+    "header_text": "Rising Sea Levels",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Rising Sea Levels"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-couple-of-people-holding-a-bowl-of-food-4aM_QE-HRLw"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

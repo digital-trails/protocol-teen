@@ -1,0 +1,17 @@
+{
+    "header_text": "Mile Run 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In gym class today, you have to run a mile. In order to get a good grade, you have to complete the mile within 13 minutes. When you think about running the mile, you feel... \n"
+        },
+        {
+            "type": "Entry",
+            "name": "Mile Run 2_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 7
+}

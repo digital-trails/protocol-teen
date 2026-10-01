@@ -1,0 +1,16 @@
+{
+    "header_text": "Mile Run 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mile Run 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-people-running-on-a-track--JN7mbAnROs"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

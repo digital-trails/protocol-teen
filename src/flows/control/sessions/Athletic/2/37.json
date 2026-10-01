@@ -1,0 +1,17 @@
+{
+    "header_text": "Making a Mistake",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You make a mistake during your game. As you trudge towards the sidelines for halg time, your coach sighs loudly. You think it’s because they’re disappointed in... "
+        },
+        {
+            "type": "Entry",
+            "name": "Making a Mistake_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 9
+}

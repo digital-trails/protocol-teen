@@ -1,0 +1,16 @@
+{
+    "header_text": "Varsity Trip",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Varsity Trip"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1_Uho08hINGhj1aHDyEoAQP0xQV_dHs1M/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

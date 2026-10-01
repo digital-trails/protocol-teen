@@ -1,0 +1,16 @@
+{
+    "header_text": "Water Park",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Water Park"
+        },
+        {
+            "type": "Media",
+            "url": "./images/waterslide.jpg"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 9
+}

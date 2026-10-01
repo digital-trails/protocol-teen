@@ -1,0 +1,16 @@
+{
+    "header_text": "Parent Sign Off 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parent Sign Off 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-oCDvUGPSy94"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 0
+}

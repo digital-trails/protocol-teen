@@ -1,0 +1,25 @@
+{
+    "header_text": "Coach Comments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're at after school volleyball practice. During practice, your coach corrects your form in front of everyone. You feel embarrassed that your coach corrected you in front of... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Coach Comments_Athletic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "others"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 2
+}

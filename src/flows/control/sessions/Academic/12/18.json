@@ -1,0 +1,16 @@
+{
+    "header_text": "Lost Homework",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lost Homework"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/person-wearing-black-and-white-vans-old-skool-sneakers-ZO8L_XiJtaQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

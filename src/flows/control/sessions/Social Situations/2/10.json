@@ -1,0 +1,16 @@
+{
+    "header_text": "Interuppted Story 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Interuppted Story 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-and-woman-sitting-on-chairs-zFSo6bnZJTw"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 3
+}

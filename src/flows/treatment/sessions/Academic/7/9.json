@@ -1,0 +1,17 @@
+{
+    "header_text": "Sibling's Computer 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your sibling share a computer. You have an assignment due tonight, but they're using the computer. When you think about asking them to use the computer to finish your homework, you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sibling's Computer 2_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 2
+}

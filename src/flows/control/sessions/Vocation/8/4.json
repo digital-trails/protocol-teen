@@ -1,0 +1,16 @@
+{
+    "header_text": "FOMO From Work 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "FOMO From Work 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/1hqA3AXPEiXTO6jdJodtghR3uuRiEIry5"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

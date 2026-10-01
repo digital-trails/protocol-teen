@@ -1,0 +1,17 @@
+{
+    "header_text": "Cold Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During warm-ups outside, cold air hits your lungs and your legs feel heavier than usual. You wonder if your body is trying to tell you something before practice really starts. You consider that some days just feel different and you are probably... "
+        },
+        {
+            "type": "Entry",
+            "name": "Cold Run_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

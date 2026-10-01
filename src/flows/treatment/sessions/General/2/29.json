@@ -1,0 +1,29 @@
+{
+    "header_text": "Big Changes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you overhear your parents mention a big change, you assume it means..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Big Changes_General_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "something disruptive and scary is about to happen.",
+                "something new the family will figure out together."
+            ],
+            "column_Count": 1,
+            "correct_value": "something new the family will figure out together."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Resilience",
+    "scenario_num": 8
+}

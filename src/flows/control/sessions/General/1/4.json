@@ -1,0 +1,16 @@
+{
+    "header_text": "Delayed Climate Action 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Delayed Climate Action 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/noplanetb.jpg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

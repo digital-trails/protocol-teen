@@ -1,0 +1,17 @@
+{
+    "header_text": "Price Increases",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the grocery store, you pause in the aisle when you notice familiar items cost more than they did a few weeks ago. Your mind jumps to shortages becoming normal and shelves slowly emptying. You think systems adapt over..."
+        },
+        {
+            "type": "Entry",
+            "name": "Price Increases_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

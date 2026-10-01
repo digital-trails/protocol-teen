@@ -1,0 +1,16 @@
+{
+    "header_text": "Finger Pain 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finger Pain 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/coldhands.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

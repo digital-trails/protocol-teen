@@ -1,0 +1,17 @@
+{
+    "header_text": "Facebook Argument",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After a few moments, you remind yourself that some people in power are trying, even if progress feels slow, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Facebook Argument_Environmental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

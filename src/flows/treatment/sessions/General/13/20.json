@@ -1,0 +1,16 @@
+{
+    "header_text": "Waiting for Crush",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Waiting for Crush"
+        },
+        {
+            "type": "Media",
+            "url": "./images/friendgroup3.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

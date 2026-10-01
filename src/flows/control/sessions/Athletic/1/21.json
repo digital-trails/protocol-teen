@@ -1,0 +1,16 @@
+{
+    "header_text": "Bad Ref Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bad Ref Call"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-pointing-his-finger-during-daytime-MgIPNC8TG1c"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 7
+}

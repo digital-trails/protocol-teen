@@ -1,0 +1,16 @@
+{
+    "header_text": "Short Reply",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Short Reply"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/portrait-of-a-nonbinary-autistic-person-using-their-mobile-phone-indoors-vvW2WF-999g"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

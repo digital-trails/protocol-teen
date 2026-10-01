@@ -1,0 +1,16 @@
+{
+    "header_text": "Losing Team Spot",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Losing Team Spot"
+        },
+        {
+            "type": "Media",
+            "url": "./images/tennis.jpg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

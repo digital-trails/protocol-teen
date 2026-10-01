@@ -1,0 +1,16 @@
+{
+    "header_text": "Unaccepted Friend Request",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unaccepted Friend Request"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-sitting-on-a-couch-holding-a-cell-phone-QnQHSxLFchI"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

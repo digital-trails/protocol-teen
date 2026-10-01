@@ -1,0 +1,16 @@
+{
+    "header_text": "Cleaning Up at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cleaning Up at Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-is-cleaning-a-table-with-a-green-cloth-w1QXw3f1NAI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

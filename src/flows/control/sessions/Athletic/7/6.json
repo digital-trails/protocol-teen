@@ -1,0 +1,16 @@
+{
+    "header_text": "Easy Shot",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Easy Shot"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/horizontal-image-of-soccer-ball-with-foot-of-player-kicking-it--BqStJQjREI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

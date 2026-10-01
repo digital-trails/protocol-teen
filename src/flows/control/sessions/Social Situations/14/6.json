@@ -1,0 +1,16 @@
+{
+    "header_text": "Stomach Rumble",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stomach Rumble"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-with-a-pencil-mLF8eEf8FLs"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

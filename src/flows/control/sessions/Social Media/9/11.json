@@ -1,0 +1,16 @@
+{
+    "header_text": "Extended Family Tiktok",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Extended Family Tiktok"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1P2GOLNSBRIdwiE0PKMbDYdr7ryshkp3p/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

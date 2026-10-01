@@ -1,0 +1,16 @@
+{
+    "header_text": "Tripping on the Stairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tripping on the Stairs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/people-walking-on-the-bridge-during-daytime-6WXhY7eL0Ag"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

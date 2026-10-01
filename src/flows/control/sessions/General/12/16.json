@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Activism Debate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Activism Debate"
+        },
+        {
+            "type": "Media",
+            "url": "./images/coworkers.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

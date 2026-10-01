@@ -1,0 +1,16 @@
+{
+    "header_text": "Babysitting 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Babysitting 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/boy-in-gray-and-white-striped-shirt-sitting-on-floor-WSWHjPGGEY4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

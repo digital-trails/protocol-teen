@@ -1,0 +1,29 @@
+{
+    "header_text": "Sibling's Computer 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Asking your sibling to get off the computer will cause..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Sibling's Computer 3_Academic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Your sibling to get off the computer",
+                "A huge fight with your sibling"
+            ],
+            "column_Count": 1,
+            "correct_value": "Your sibling to get off the computer"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

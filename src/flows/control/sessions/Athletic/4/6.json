@@ -1,0 +1,29 @@
+{
+    "header_text": "Free Evening ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Next time you have a free hour, you will...."
+        },
+        {
+            "type": "Buttons",
+            "name": "Free Evening _Athletic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Give yourself permission to relax",
+                "Feel guilty for wasting time"
+            ],
+            "column_Count": 1,
+            "correct_value": "Give yourself permission to relax"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Supervisor Moving Fast",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Supervisor Moving Fast"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-man-standing-in-a-kitchen-preparing-food-hM6MSq__M0Q"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

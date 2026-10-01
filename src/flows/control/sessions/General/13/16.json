@@ -1,0 +1,16 @@
+{
+    "header_text": "Shirt Fit 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Shirt Fit 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/court.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

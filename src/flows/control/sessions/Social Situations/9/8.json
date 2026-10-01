@@ -1,0 +1,16 @@
+{
+    "header_text": "Laughing at Locker 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Laughing at Locker 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-door-with-a-handle-MeRmEeMRXQ0"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

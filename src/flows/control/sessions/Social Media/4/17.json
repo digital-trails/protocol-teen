@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend's Sibling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friend's Sibling"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1fBOHuTwOkMMKc0w3cH8zjG4vswO7B9SB/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

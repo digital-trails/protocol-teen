@@ -1,0 +1,16 @@
+{
+    "header_text": "Unusual Friend Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unusual Friend Response"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://pixabay.com/illustrations/ai-generated-school-exam-students-9214143/"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

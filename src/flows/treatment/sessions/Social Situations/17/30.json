@@ -1,0 +1,16 @@
+{
+    "header_text": "Class Debate 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Class Debate 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-classroom-full-of-students-raising-their-hands-anrGGq7C-8s"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

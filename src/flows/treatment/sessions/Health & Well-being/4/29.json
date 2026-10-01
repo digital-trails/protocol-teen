@@ -1,0 +1,16 @@
+{
+    "header_text": "Trampoline",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trampoline"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-little-girl-is-jumping-on-a-trampoline-WJvioCdP9XI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

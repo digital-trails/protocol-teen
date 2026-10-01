@@ -1,0 +1,16 @@
+{
+    "header_text": "Painful Breakup",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Painful Breakup"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-using-mobile-phone-while-covering-his-body-of-blanket-iF8sPfprfWY"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Night Out FOMO 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Night Out FOMO 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1BQU_ENXmRBV6ppPR5GvlZum8aYxV5uH-/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

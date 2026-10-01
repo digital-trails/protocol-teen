@@ -1,0 +1,16 @@
+{
+    "header_text": "Class Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Class Presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/brown-wooden-table-and-chairs-PDRFeeDniCk"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "College Poster 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that you're on your own path, and it is okay if it doesn't look like everyone else's, which leaves you feeling... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "College Poster 2_Academic_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "proud"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 0
+}

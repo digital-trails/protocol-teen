@@ -1,0 +1,16 @@
+{
+    "header_text": "New Gym Machine",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Gym Machine"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/people-in-a-room-with-a-black-table-and-chairs-fqMu99l8sqo"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

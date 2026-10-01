@@ -1,0 +1,16 @@
+{
+    "header_text": "Texting in Class 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Texting in Class 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/people-sitting-on-chair-w1FwDvIreZU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Person at the Study Table",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Person at the Study Table"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-and-woman-sitting-while-using-macbook-pro-iO2d-KYp5JU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

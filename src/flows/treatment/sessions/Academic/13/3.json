@@ -1,0 +1,16 @@
+{
+    "header_text": "Practice SAT 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Practice SAT 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1NvTM1g3vx1Kut8y_4vvBJo79qKHzUztk/view"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

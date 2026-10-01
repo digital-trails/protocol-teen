@@ -1,0 +1,16 @@
+{
+    "header_text": "Video of Confident Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Video of Confident Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1In9GJoAqvPWgsbb9VtXrxUdtyJ6lzm3W/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

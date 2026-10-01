@@ -1,0 +1,16 @@
+{
+    "header_text": "Stuck on Homework",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stuck on Homework"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-man-wearing-headphones-playing-a-video-game-Fb9A11LfvdQ"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

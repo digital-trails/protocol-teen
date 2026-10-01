@@ -1,0 +1,16 @@
+{
+    "header_text": "Perfect Selfie",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Perfect Selfie"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-taking-a-picture-with-her-cell-phone-6enQSaGKxlY"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

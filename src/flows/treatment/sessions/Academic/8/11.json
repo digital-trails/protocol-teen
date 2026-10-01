@@ -1,0 +1,25 @@
+{
+    "header_text": "Sibling's Computer 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your sibling share a computer. You have an assignment due tonight, but they're using the computer. When you think about asking them to use the computer to finish your homework, you feel optimistic that they will... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sibling's Computer 3_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "understand"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

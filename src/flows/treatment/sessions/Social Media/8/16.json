@@ -1,0 +1,16 @@
+{
+    "header_text": "Protest Pictures",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Protest Pictures"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1-jEgeh68_2R6f1bD7-TLRHgNJuS5aSyg/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

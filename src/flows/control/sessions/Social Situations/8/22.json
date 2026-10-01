@@ -1,0 +1,16 @@
+{
+    "header_text": "Internship Envy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Internship Envy"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/drive/folders/1hqA3AXPEiXTO6jdJodtghR3uuRiEIry5"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

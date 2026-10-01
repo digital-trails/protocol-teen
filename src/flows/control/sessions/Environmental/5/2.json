@@ -1,0 +1,16 @@
+{
+    "header_text": "Stress Catching Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stress Catching Up"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-window-with-blinds-jcEa-g8ROAM"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

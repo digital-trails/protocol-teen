@@ -1,0 +1,17 @@
+{
+    "header_text": "Nerves Before Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Before a game, you sit quietly tying and retying your laces while teammates joke nearby. You feel a tight buzz in your chest and wonder if they feel it too. You think nerves mean you are excited for the... "
+        },
+        {
+            "type": "Entry",
+            "name": "Nerves Before Game_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

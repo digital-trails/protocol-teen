@@ -1,0 +1,17 @@
+{
+    "header_text": "Room Rearrangement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your family are staying with your uncle for a few weeks. One day, you come home and realize he's rearranged your room without asking. You think he moved your things around in order to control... "
+        },
+        {
+            "type": "Entry",
+            "name": "Room Rearrangement_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Writing Resumé 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Writing Resumé 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-woman-sitting-at-a-table-with-a-laptop-Pc98wf-JaDw"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

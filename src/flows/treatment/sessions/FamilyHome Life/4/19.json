@@ -1,0 +1,17 @@
+{
+    "header_text": "Comment from Parent 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a moment to recognize how parents can compliment one kid without criticizing the other, and feel happy with your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Comment from Parent 2_FamilyHome Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 5
+}

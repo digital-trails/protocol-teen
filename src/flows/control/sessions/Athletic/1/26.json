@@ -1,0 +1,17 @@
+{
+    "header_text": "Losing Team Spot",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your coach mentions strict team cuts this season, and your chest tightens. You imagine your spot being at risk. The uncertainty sticks with you, and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Losing Team Spot_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 9
+}

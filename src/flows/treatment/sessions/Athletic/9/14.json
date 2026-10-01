@@ -1,0 +1,17 @@
+{
+    "header_text": "Slow Paced Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you cool down after a run, your watch shows a slower average pace than usual. You start wondering if today’s run signals a setback. You remind yourself days vary for reasons you can’t always see, and you feel happy with your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Slow Paced Run_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

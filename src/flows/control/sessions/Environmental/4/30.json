@@ -1,0 +1,29 @@
+{
+    "header_text": "Poor Air Quality",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Next time you get the alert, you will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Poor Air Quality_Environmental_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Panic about your health",
+                "Calmly take recomended precautions"
+            ],
+            "column_Count": 1,
+            "correct_value": "Calmly take recomended precautions"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Vet Appointment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vet Appointment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/shallow-focus-photography-of-white-and-brown-cat-GtwiBmtJvaU"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

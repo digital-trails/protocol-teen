@@ -1,0 +1,16 @@
+{
+    "header_text": "Tryout Anxiety",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tryout Anxiety"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-group-of-young-women-playing-a-game-of-volleyball-WmdH5Tmn1ac"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

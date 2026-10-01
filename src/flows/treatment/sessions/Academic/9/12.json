@@ -1,0 +1,25 @@
+{
+    "header_text": "Valedictorian Speech",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You see your class valedictorian giving a perfect speech. You feel a pang of regret that that's not you. You remind yourself that success takes many forms, and you feel your regret... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Valedictorian Speech_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ease"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Nature Documentary",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends are watching a nature documentary on Netflix. During a section about melting ice caps, you feel a wave of panic about the planet’s future. You imagine everything getting worse no matter what people do and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Nature Documentary_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Being Polite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Being Polite"
+        },
+        {
+            "type": "Media",
+            "url": "./images/insidehouse.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

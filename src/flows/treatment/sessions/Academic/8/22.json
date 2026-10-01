@@ -1,0 +1,16 @@
+{
+    "header_text": "Favorite Book 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Favorite Book 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/boy-in-black-hoodie-sitting-on-chair-4nKOEAQaTgA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Juggling Responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Juggling Responsibilities"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-in-blue-denim-jacket-holding-white-paper-AZrBFoXP_3I"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

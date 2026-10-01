@@ -1,0 +1,17 @@
+{
+    "header_text": "Generational Presssure",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends have a heavy conversation about climate change. On your way home, you feel anxious thinking your generation has to fix everything. You feel sad, worried you’ll never create enough change to... "
+        },
+        {
+            "type": "Entry",
+            "name": "Generational Presssure_Environmental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

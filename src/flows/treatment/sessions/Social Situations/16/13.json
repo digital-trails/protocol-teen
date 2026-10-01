@@ -1,0 +1,25 @@
+{
+    "header_text": "Strong Opinions: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family members have some strong opinions and you don't always agree with them. One evening, you invite a friend over for dinner. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I practice my active listening skills.",
+                "I want to tell my parents not to say anything embarrassing in front of my friend, but take a deep breath instead.",
+                "I want to tell my friend that my parents might say something that I don't agree with, but remind myself that my friend will be nice to me no matter what my parents say.",
+                "I start thinking about all of the homework that I have to do so that I don't have to listen to what my parents say.",
+                "I smile as my friend and my parents talk."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

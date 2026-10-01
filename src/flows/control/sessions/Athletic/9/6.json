@@ -1,0 +1,17 @@
+{
+    "header_text": "Eye Contact",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Before a game, your coach gives a short talk but avoids making eye contact with you. You start to worry that you’re already on their radar for the wrong reasons. You think your coach is avoiding eye contact because he is... "
+        },
+        {
+            "type": "Entry",
+            "name": "Eye Contact_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

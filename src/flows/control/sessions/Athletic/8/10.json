@@ -1,0 +1,16 @@
+{
+    "header_text": "Cleared to Practice 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cleared to Practice 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/four-men-playing-double-tennis-during-daytime-Z4Sxy1_3wdY"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

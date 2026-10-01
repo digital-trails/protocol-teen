@@ -1,0 +1,16 @@
+{
+    "header_text": "Lunchroom Seating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lunchroom Seating"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-building-with-a-sign-that-says-cafeteria-KSo_p5wavgI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

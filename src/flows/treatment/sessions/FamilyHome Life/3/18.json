@@ -1,0 +1,25 @@
+{
+    "header_text": "Missing Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've had a long day at school and accidentally fall asleep when you get home. When you wake up, you come downstairs to find your family already finishing dinner without you. You immediately assume they didn’t wait on purpose, and you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Missing Dinner_FamilyHome Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "unwanted"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Easy Shot",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Easy Shot"
+        },
+        {
+            "type": "Media",
+            "url": "./images/soccer1.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

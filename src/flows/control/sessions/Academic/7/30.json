@@ -1,0 +1,25 @@
+{
+    "header_text": "Parental College Pressure 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your parents want you to go to a specific college. You would rather go to a different college, but your parents have made it clear they are not on board with the school choice. When you think about talking with your parents about your choice, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Parental College Pressure 3_Academic_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ready"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

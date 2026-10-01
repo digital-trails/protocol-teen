@@ -1,0 +1,17 @@
+{
+    "header_text": "Rising Sea Levels",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that environmental changes are gradual and many efforts to protect coastlines exist, and you feel optimistic about ongoing conservation... "
+        },
+        {
+            "type": "Entry",
+            "name": "Rising Sea Levels_Environmental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 2
+}

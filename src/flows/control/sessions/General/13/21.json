@@ -1,0 +1,17 @@
+{
+    "header_text": "Waiting for Crush",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You’re waiting for your crush to show up to a group hangout. When they arrive, they're laughing with someone else you don't know. Thinking about your crush having other friends makes you feel happy for... "
+        },
+        {
+            "type": "Entry",
+            "name": "Waiting for Crush_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

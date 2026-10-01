@@ -1,0 +1,16 @@
+{
+    "header_text": "Left on Delivered",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Left on Delivered"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1QBeCF5ukjRI2_CDKuBbHL_RMvSUkaRj4/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

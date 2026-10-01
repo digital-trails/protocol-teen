@@ -1,0 +1,17 @@
+{
+    "header_text": "Shaky Muscles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Near the end of your workout, your muscles feel shaky and tired. You debate whether stopping early means you didn’t try hard enough. You consider that listening to your body is part of training, and you feel satisfied with your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Shaky Muscles_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

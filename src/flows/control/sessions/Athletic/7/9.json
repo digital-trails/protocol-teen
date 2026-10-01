@@ -1,0 +1,17 @@
+{
+    "header_text": "Loud Crowd",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You hear the crowd roar and your pulse suddenly jumps. You worry you'll let people down. You remind yourself that your skills don’t disappear just because eyes are on you, and you feel your focus..."
+        },
+        {
+            "type": "Entry",
+            "name": "Loud Crowd_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Sunset Photo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sunset Photo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1PEacybDOoTP4uyL6eIRJ6Zn0KielGahH/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 3
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Checking the Locks 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you get closer to school, you recall how you usually lock the door automatically without thinking about it, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Checking the Locks 2_General_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 8
+}

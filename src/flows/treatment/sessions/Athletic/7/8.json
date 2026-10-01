@@ -1,0 +1,16 @@
+{
+    "header_text": "Loud Crowd",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Loud Crowd"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/large-crowd-in-a-football-stadium-IQWHFTALOvA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

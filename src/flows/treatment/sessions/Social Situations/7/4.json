@@ -1,0 +1,16 @@
+{
+    "header_text": "Forgotten Essay ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Forgotten Essay "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-and-woman-sitting-on-chairs-zFSo6bnZJTw"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

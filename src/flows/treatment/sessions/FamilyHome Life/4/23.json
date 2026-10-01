@@ -1,0 +1,16 @@
+{
+    "header_text": "Tackling To Do List",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tackling To Do List"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-laundry-basket-sitting-on-top-of-a-wooden-counter-nK4GVqwCNMM"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 7
+}

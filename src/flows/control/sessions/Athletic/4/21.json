@@ -1,0 +1,29 @@
+{
+    "header_text": "Reflection at Gym",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Other people in the gym are probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Reflection at Gym_Athletic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Paying attention to how you look",
+                "Focused on themselves"
+            ],
+            "column_Count": 1,
+            "correct_value": "Focused on themselves"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

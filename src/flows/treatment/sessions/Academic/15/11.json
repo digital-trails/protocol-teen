@@ -1,0 +1,17 @@
+{
+    "header_text": "Breakout Rooms 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a Zoom class, you're placed into breakout rooms. When you start the discussion, your camera is on, but everyone else leaves their cameras off and their mics muted. You wonder if others will think you are... "
+        },
+        {
+            "type": "Entry",
+            "name": "Breakout Rooms 3_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

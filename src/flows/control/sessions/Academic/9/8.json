@@ -1,0 +1,16 @@
+{
+    "header_text": "Community College",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Community College"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-pair-of-green-tennis-shoes-sitting-on-top-of-a-bed-next-to-a-backpack-RObXwGg773k"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

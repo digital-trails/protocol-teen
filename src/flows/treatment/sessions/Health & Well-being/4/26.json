@@ -1,0 +1,16 @@
+{
+    "header_text": "Ice Skating 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ice Skating 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/an-indoor-ice-rink-with-a-hockey-goal--ofOCf-jen4"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Overheard Argument 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're in your room working on homework when you hear your parents arguing downstairs. Their voices start to rise, and you hear them say your name. You assume something must be wrong, possibly involving you, and you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Overheard Argument 1_FamilyHome Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 0
+}

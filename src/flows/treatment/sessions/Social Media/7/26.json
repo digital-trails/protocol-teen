@@ -1,0 +1,16 @@
+{
+    "header_text": "Sharing a Joke 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sharing a Joke 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-couple-of-people-sitting-on-top-of-a-bench-5O2WsA93zAQ"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 8
+}

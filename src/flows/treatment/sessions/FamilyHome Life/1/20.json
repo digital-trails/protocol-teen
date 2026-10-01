@@ -1,0 +1,25 @@
+{
+    "header_text": "Family Movie Night",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your parents seem quiet and distant during movie night. You worry they’re upset about something you did. The silence feels heavy, and you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Family Movie Night_FamilyHome Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "uncomfortable"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 6
+}

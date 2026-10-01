@@ -1,0 +1,16 @@
+{
+    "header_text": "Climate Guilt 1",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Climate Guilt 1"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-looking-out-over-the-city-zdQux0uJE3A"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Anticipating Comments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anticipating Comments"
+        },
+        {
+            "type": "Media",
+            "url": "./images/bathroom1.jpg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

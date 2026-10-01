@@ -1,0 +1,17 @@
+{
+    "header_text": "Winded After Practice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You get winded faster than usual at practice. You lean over, gasping for breathe on the sidelines. You begin to worry that you’re suddenly... "
+        },
+        {
+            "type": "Entry",
+            "name": "Winded After Practice_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 3
+}

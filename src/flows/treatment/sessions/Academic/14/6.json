@@ -1,0 +1,16 @@
+{
+    "header_text": "Acceptance Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acceptance Email"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/black-laptop-computer-3Mhgvrk4tjM"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend's Family Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friend's Family Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/woman-in-white-shirt-holding-a-girl-in-white-shirt-hzNavqkrQUA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

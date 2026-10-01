@@ -1,0 +1,17 @@
+{
+    "header_text": "Climate Group Options",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You consider joining a climate group but think about the time it might take away from other parts of your life. You wonder if balance means you’re less committed. You think commitment can be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Climate Group Options_General_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

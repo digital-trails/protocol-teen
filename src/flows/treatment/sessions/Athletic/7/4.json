@@ -1,0 +1,16 @@
+{
+    "header_text": "Calm Teammates",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Calm Teammates"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/man-in-brown-shirt-standing-in-front-of-swimming-pool-LO60jqL8jGA"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

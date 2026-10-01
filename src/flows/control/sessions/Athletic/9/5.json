@@ -1,0 +1,16 @@
+{
+    "header_text": "Eye Contact",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Eye Contact"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-man-standing-next-to-another-man-on-a-field-8y8OJiuQkCI"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

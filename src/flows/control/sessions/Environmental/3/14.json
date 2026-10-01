@@ -1,0 +1,16 @@
+{
+    "header_text": "Nature Documentary",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nature Documentary"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/a-rear-view-of-single-young-woman-sitting-on-sofa-at-home-and-watching-tv-ojjpnW9bMzQ"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 4
+}

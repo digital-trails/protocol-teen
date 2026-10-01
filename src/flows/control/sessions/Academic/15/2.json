@@ -1,0 +1,16 @@
+{
+    "header_text": "Internet Failure 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Internet Failure 3"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/an-open-laptop-computer-sitting-on-top-of-a-table-PrVNgIj8DhQ"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

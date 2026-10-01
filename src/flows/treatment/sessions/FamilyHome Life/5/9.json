@@ -1,0 +1,16 @@
+{
+    "header_text": "Grade Portal Notification",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Grade Portal Notification"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1DTwEEmIQbj5xxx-NQ0yc0qnIJd4UMzAL/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

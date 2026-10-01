@@ -1,0 +1,17 @@
+{
+    "header_text": "Lucky Charm",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you start your warm-up, you realize you forgot your lucky charm. Your chest tightens, thinking you can’t play well without it. You feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Lucky Charm_Athletic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience",
+    "scenario_num": 1
+}

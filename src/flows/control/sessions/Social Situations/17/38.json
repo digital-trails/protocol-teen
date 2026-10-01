@@ -1,0 +1,16 @@
+{
+    "header_text": "Field Trip 2",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Field Trip 2"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://unsplash.com/photos/two-people-sitting-on-a-bench-in-front-of-paintings-jsjjScF-mx0"
+        }
+    ],
+    "type": "Resilience",
+    "scenario_num": 9
+}

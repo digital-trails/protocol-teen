@@ -1,0 +1,17 @@
+{
+    "header_text": "Stomach Ache 3",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been anxious about an upcoming test for class. On the day of the test, you notice that your stomach is aching. You think that the stomach ache must be from... "
+        },
+        {
+            "type": "Entry",
+            "name": "Stomach Ache 3_Academic_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}
