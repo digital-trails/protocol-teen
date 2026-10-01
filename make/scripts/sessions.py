@@ -6,7 +6,7 @@ from itertools import islice, cycle, chain
 from pathlib import Path
 
 from helpers_pages import create_scenario_pages, create_survey_page,create_resource_page
-from helpers_pages import create_long_pages, create_write_your_own_page, create_video_page
+from helpers_pages import create_long_pages, create_video_page
 from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url, lower, get_page_index, get_reminder_element
 
 dir_root = "./make"
@@ -137,14 +137,8 @@ def create_short_sessions():
 
                 if not domain or not label: continue
 
-                is_wyo = "write your own" in lower(label)
-
-                if len(scenarios[domain]) == 10 or is_wyo and len(scenarios[domain]) > 6:
+                if len(scenarios[domain]) == 10:
                     sessions[domain].append(sum(scenarios[domain],[]))
-                    scenarios[domain] = []
-
-                if is_wyo:
-                    sessions[domain].append("Write Your Own")
                     scenarios[domain] = []
 
                 else:
@@ -201,18 +195,6 @@ def create_surveys():
 
     return surveys
 
-def create_write_your_own_session():
-    pages = []
-    with open(f"{dir_csv}/write_your_own.csv", "r", encoding="utf-8") as f:
-        for row in islice(csv.reader(f),1,None):
-            text = clean_up_unicode(row[4])
-            if text:
-                title = row[1]
-                input_1 = row[5]
-                input_name = row[18]
-                pages.append(create_write_your_own_page(text, input_1, title, input_name))
-    return pages
-
 def create_resource_dose_creator():
     ER_lookup = get_ER(file_path=f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Emotion Regulation Suggestions.csv")
     tips      = get_tips(file_path=f"{dir_csv}/MT Teen Content_ Long Scenarios & Other - Tips to apply lessons in daily life.csv")
@@ -247,7 +229,6 @@ for pop,s,l in populations:
     surveys         = create_surveys()
     short_sessions  = create_short_sessions()             # dict of short session iter by domain
     long_sessions   = create_long_sessions()              # dict of long session cycle by domain
-    wyo_session     = create_write_your_own_session()      # one session used over and over again
     resources       = create_resource_dose_creator()       # lambda that takes a domain and returns a dose
     reminders       = create_reminders()
 
@@ -259,8 +240,6 @@ for pop,s,l in populations:
         for short_session in short_sessions[domain]:
             if sessions[domain] and len(sessions[domain]) % 5 == 0:
                 sessions[domain].append(next(long_sessions[domain]) + resources(domain))
-            if short_session == "Write Your Own":
-                sessions[domain].append(wyo_session + resources(domain))
             else:
                 short_session = try_add_reminders(len(sessions[domain]), short_session, reminders)
                 sessions[domain].append(short_session + resources(domain))
