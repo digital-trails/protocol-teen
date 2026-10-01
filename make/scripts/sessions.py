@@ -95,14 +95,14 @@ def create_long_sessions():
             if not row: continue # Skip empty lines
 
             if len(row) > 16:  # Ensure the row has enough columns
-                domain_1 = row[0].strip()
-                domain_2 = row[1].strip() if row[1] else None
+                domain_1 = row[1].strip()
+                domain_2 = row[2].strip() if row[1] else None
                 label = row[3]
-                image_url = media_url(row[21])
-                scenario_description = row[4]
-                thoughts = row[6:11]
-                feelings = row[11:16]
-                behaviors = row[16:]
+                image_url = media_url(row[29])
+                scenario_description = row[28]
+                thoughts = row[30:35]
+                feelings = row[35:40]
+                behaviors = row[40:]
 
                 if not has_value(scenario_description) or not has_value(label): continue
 
@@ -124,57 +124,58 @@ def create_short_sessions():
 
     lessons_learned_dict = create_lessons_learned()
 
-    with open(f"{dir_csv}/MT Teen Content_ Short Scenarios.xlsx - General Scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
-        for row in islice(csv.reader(read_obj),1,None):
+    domains = ["General", "Academic", "Athletic", "Environmental", "FamilyHome Life", "Health & Well-being", "Milestone", "Romantic Relationships", "Social Media", "Social Situations", "Vocation"]
 
-            domain   = row[3].strip()
-            domain2   = row[4].strip()
-            domain3   = row[5].strip()
-            label     = row[6]
-            image_url = media_url(row[13])
-            tipe      = row[2].strip()
+    for domain in domains:
 
-            if not domain or not label: continue
+        with open(f"{dir_csv}/MT Teen Content_ Short Scenarios.xlsx - {domain} Scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
+            for row in islice(csv.reader(read_obj),1,None):
 
-            is_wyo = "write your own" in lower(label)
+                label     = row[1]
+                image_url = media_url(row[9])
+                tipe      = row[4].strip()
 
-            if len(scenarios[domain]) == 10 or is_wyo and len(scenarios[domain]) > 6:
-                sessions[domain].append(sum(scenarios[domain],[]))
-                scenarios[domain] = []
+                if not domain or not label: continue
 
-            if is_wyo:
-                sessions[domain].append("Write Your Own")
-                scenarios[domain] = []
+                is_wyo = "write your own" in lower(label)
 
-            else:
+                if len(scenarios[domain]) == 10 or is_wyo and len(scenarios[domain]) > 6:
+                    sessions[domain].append(sum(scenarios[domain],[]))
+                    scenarios[domain] = []
 
-                puzzle1,puzzle2 = map(create_puzzle,row[7:9])
+                if is_wyo:
+                    sessions[domain].append("Write Your Own")
+                    scenarios[domain] = []
 
-                if puzzle1 == (None,None): continue
+                else:
 
-                comp_question, choices, answer  = row[9], row[10:12], row[10]
+                    puzzle1,puzzle2 = map(create_puzzle,row[2:4])
 
-                shuffle(choices)
+                    if puzzle1 == (None,None): continue
 
-                if row[14]: letters_missing = row[14]
+                    comp_question, choices, answer  = row[6], row[7:9], row[7]
 
-                is_first_session = len(sessions[domain]) == 0
-                is_first_scenario = len(scenarios[domain]) == 0
+                    shuffle(choices)
 
-                show_lessons_learned = not is_first_session and is_first_scenario and len(sessions[domain]) % 4 == 0
+                    if row[10]: letters_missing = row[10]
 
-                scenarios[domain].append(
-                    create_scenario_pages(domain=domain, label=label, scenario_num=len(scenarios[domain]),
-                        puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
-                        comp_question=comp_question, answers=choices,
-                        correct_answer=answer, word_2=puzzle2[1],
-                        puzzle_text_2=puzzle2[0], image_url=image_url,
-                        n_missing=letters_missing,
-                        include_lessons_learned=show_lessons_learned,
-                        lessons_learned_dict=lessons_learned_dict,
-                        is_first=is_first_scenario, tipe=tipe
+                    is_first_session = len(sessions[domain]) == 0
+                    is_first_scenario = len(scenarios[domain]) == 0
+
+                    show_lessons_learned = not is_first_session and is_first_scenario and len(sessions[domain]) % 4 == 0
+
+                    scenarios[domain].append(
+                        create_scenario_pages(domain=domain, label=label, scenario_num=len(scenarios[domain]),
+                            puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
+                            comp_question=comp_question, answers=choices,
+                            correct_answer=answer, word_2=puzzle2[1],
+                            puzzle_text_2=puzzle2[0], image_url=image_url,
+                            n_missing=letters_missing,
+                            include_lessons_learned=show_lessons_learned,
+                            lessons_learned_dict=lessons_learned_dict,
+                            is_first=is_first_scenario, tipe=tipe
+                        )
                     )
-                )
 
     return sessions
 
