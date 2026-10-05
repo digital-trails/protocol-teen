@@ -32,7 +32,6 @@ with open(f"{dir_csv}/images.csv", "r", encoding="utf-8") as read_obj:
             image_id = url[start_index:end_index]
 
             if not Path(f"./src/images/{name}").exists():
-                time.sleep(1)
 
                 with get_image(image_id) as r:
                     with open(f"./src/images/{name}", mode="wb+") as f:
