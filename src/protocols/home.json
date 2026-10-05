@@ -10,7 +10,7 @@
         {
             "type": "sessions",
             "left": { "text": "{0} Sessions Completed", "icon": { "url": "/assets/completed.png", "tint": false } },
-            "right": { "text": "Launch Session", "icon": { "url": "/assets/unlocked.png", "tint": false }, "action": "flow://flows/${global:population}/treatment/sessions" },
+            "right": { "text": "Launch Session", "icon": { "url": "/assets/unlocked.png", "tint": false }, "action": "flow://flows/treatment/sessions" },
             "lock_right": { "text": "Treatment Is Over", "icon": { "url": "/assets/locked.png", "tint": false } },
             "lock_time": "42:00:00:00"
         },
@@ -45,15 +45,6 @@
                     "backgroundcolor": "#1A00E05A",
                     "icon": {
                         "url": "/assets/home_instructions.png",
-                        "tint": false
-                    }
-                },
-                {
-                    "text": "Resources",
-                    "action": "flow://flows/${global:population}/treatment/resources",
-                    "backgroundcolor": "#1A00C2FF",
-                    "icon": {
-                        "url": "/assets/home_resources.png",
                         "tint": false
                     }
                 },
