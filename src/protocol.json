@@ -3,7 +3,7 @@
     "title": "MindTrails",
     "element": {
       "type": "ref",
-      "path": "protocols/${global:group}/home.json"
+      "path": "protocols/treatment/home.json"
     }
   },
   "settings": {
