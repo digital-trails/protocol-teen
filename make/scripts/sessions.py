@@ -33,7 +33,6 @@ def _create_practice_pages():
             puzzle1,puzzle2 = map(create_puzzle,row[4:6])
             question, choices, answer = row[6], row[7:9], row[7]
             image_url = media_url(row[10])
-
             shuffle(choices)
 
             yield from create_scenario_pages(domain=domain, label=label, scenario_num=scenario_num,
@@ -148,7 +147,7 @@ def create_short_sessions():
                     if puzzle1 == (None,None): continue
 
                     comp_question, choices, answer  = row[6], row[7:9], row[7]
-
+                    if lower(answer) in ["yes","no"]: choices = ["Yes","No"]
                     shuffle(choices)
 
                     if row[10]: letters_missing = row[10]
@@ -255,7 +254,7 @@ for pop,s,l in populations:
 
     # Define folders
     folders = {}
-    folders['control/intro'] = flat(surveys["Control_Dose_1"])
+    folders['control/intro'] = flat(surveys["Dose_1"]) # change back to "Control_Dose_1" when it's ready
     folders['treatment/intro'] = flat(surveys["Dose_1"])
     folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Teen"}
     folders['treatment/sessions/__before__'] = flat(surveys["BeforeDomain_All"])

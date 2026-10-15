@@ -53,7 +53,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "picker"   : return {"type": "Picker", "items": items}
     if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefer not to respond"]} # changed
     if tipe == "entry"    : return {"type": "Entry" }
-    if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
+    if tipe == "buttons" or tipe=="button"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
     if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "It's time to practice flexible thinking! Head to MindTrails for your scheduled session."}
     if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multiselect": True }
     if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }

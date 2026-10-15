@@ -8,7 +8,14 @@
         },
         {
             "type": "Buttons",
-            "buttons": "",
+            "buttons": [
+                "0::Not at all vivid",
+                "1::Somewhat vivid",
+                "2::Moderately vivid",
+                "3::Very vivid",
+                "4::Totally vivid",
+                "99::Prefer not to answer"
+            ],
             "selectable": true
         }
     ]

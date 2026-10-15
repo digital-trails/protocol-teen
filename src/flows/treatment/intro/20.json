@@ -8,8 +8,8 @@
         },
         {
             "type": "Slider",
-            "min": "",
-            "max": "",
+            "min": "0",
+            "max": "10",
             "others": [
                 "^Prefer not to respond"
             ]

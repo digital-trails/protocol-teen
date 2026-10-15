@@ -15,7 +15,7 @@
                 "I want to practice skills I've learned or am currently learning from a mental healthcare provider.",
                 "I want to maintain the gains I've made during mental health treatment.",
                 "I want to avoid a return of anxiety and/or stress I've experienced in the past",
-                "Other (please describe)"
+                "!Other (please describe)"
             ],
             "selectable": true,
             "multiselect": true

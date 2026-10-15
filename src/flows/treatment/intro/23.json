@@ -8,7 +8,14 @@
         },
         {
             "type": "Buttons",
-            "buttons": "",
+            "buttons": [
+                "0::Very well",
+                "1::Somewhat well",
+                "2::Neutral",
+                "3::Somewhat badly",
+                "4::Very badly",
+                "99::Prefer not to answer"
+            ],
             "selectable": true
         }
     ]
